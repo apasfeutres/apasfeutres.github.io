@@ -3,6 +3,21 @@
 ---
 @charset "utf-8";
 
+@font-face {
+    font-family: 'archisticobold';
+    src: url('Archistico_Bold-webfont.eot');
+    src: url('Archistico_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Archistico_Bold-webfont.woff') format('woff'),
+         url('Archistico_Bold-webfont.ttf') format('truetype'),
+         url('Archistico_Bold-webfont.svg#archisticobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.site-title {
+	font-family: 'archisticobold';
+}
+
 
 
 // Our variables
@@ -14,7 +29,7 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: #fdfdfd;
+$background-color: #c7d5b7; //#fdfdfd;
 $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;

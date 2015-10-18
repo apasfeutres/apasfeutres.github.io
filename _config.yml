@@ -9,3 +9,10 @@ destination: /srv/data/vero/web
 
 # Build settings
 markdown: kramdown
+
+categories: [hommes, femmes, enfants]
+
+collections:
+  produits:
+    output: true
+
