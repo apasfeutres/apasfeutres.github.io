@@ -14,12 +14,11 @@ body {
 	background-color: #c7d5b7;
 }
 
-header {
+body {
 	text-align:center;
 }
 
-header a { color: inherit; } 
-nav a { color: inherit; } 
+a { color: inherit; } 
 
 .site-title {
         font-family: 'archisticobold';
