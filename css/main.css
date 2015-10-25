@@ -19,6 +19,7 @@ header {
 }
 
 header a { color: inherit; } 
+nav a { color: inherit; } 
 
 .site-title {
         font-family: 'archisticobold';
