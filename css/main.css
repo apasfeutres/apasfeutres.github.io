@@ -18,7 +18,7 @@ header {
 	text-align:center;
 }
 
-header.a { color: inherit; } 
+header a { color: inherit; } 
 
 .site-title {
         font-family: 'archisticobold';
