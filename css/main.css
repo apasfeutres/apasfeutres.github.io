@@ -18,6 +18,8 @@ header {
 	text-align:center;
 }
 
+header.a { color: inherit; } 
+
 .site-title {
         font-family: 'archisticobold';
 	font-size: 4em;
@@ -26,5 +28,6 @@ header {
 .site-nav {
 	text-align:center;
 }
+
 
 

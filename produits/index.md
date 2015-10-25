@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Chaussons et créations
+weight: 2
 ---
 <!--
 {% for produit in site.produits %}
