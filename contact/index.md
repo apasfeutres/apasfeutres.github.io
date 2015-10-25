@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Contact
 weight: 6
