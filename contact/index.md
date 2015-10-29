@@ -3,7 +3,6 @@ layout: page
 title: Contact
 weight: 6
 ---
-Contact:
 
 Véronique Corman<br>
 contact@apasfeutres.be<br>
