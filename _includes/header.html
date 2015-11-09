@@ -3,12 +3,14 @@
 </header>
 
     <nav>
+	  <ul>
 {% assign pages = site.pages | sort: 'title' | sort: 'weight' %}
         {% for page in pages %}
           {% if page.title %}
-          <a href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl }}">{{ page.title }}</a>
+          <li><a href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+      </ul>
     </nav>
 
 
