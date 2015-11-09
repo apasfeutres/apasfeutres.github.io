@@ -1,8 +1,8 @@
-<header class="site-header">
+<header>
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 </header>
 
-    <nav class="site-nav">
+    <nav>
       <div class="trigger">
 {% assign pages = site.pages | sort: 'title' | sort: 'weight' %}
         {% for page in pages %}
