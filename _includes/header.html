@@ -3,11 +3,11 @@
 </header>
 
     <nav>
-      <div class="trigger">
+      <div>
 {% assign pages = site.pages | sort: 'title' | sort: 'weight' %}
         {% for page in pages %}
           {% if page.title %}
-          <a class="page-link" href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl }}">{{ page.title }}</a>
+          <a href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
