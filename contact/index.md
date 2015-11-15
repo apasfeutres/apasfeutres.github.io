@@ -2,7 +2,7 @@
 layout: page
 type: nav
 title: Contact
-weight: 6
+weight: 7
 ---
 Contact:
 

@@ -2,5 +2,5 @@
 layout: page
 type: nav
 title: À propos
-weight: 5
+weight: 6
 ---

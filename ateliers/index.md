@@ -2,5 +2,5 @@
 layout: page
 type: nav
 title: Ateliers
-weight: 4
+weight: 5
 ---
