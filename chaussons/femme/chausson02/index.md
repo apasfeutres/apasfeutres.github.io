@@ -1,6 +1,4 @@
 ---
-layout: page
+layout: produit
 title: chausson2
-category: femmes
-tag: women
 ---
