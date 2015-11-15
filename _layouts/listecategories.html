@@ -3,7 +3,7 @@ layout: page
 ---
 <ul class="categories">
 	{% for onepage in site.pages %}
-	     {{ onepage.path }}
+	     {{ onepage.path }}-{{ onepage.url }}
 	  {% if onepage.layout == 'categorie' and onepage.url contains page.url and onepage.url != page.url %}
 	     {{ onepage.url }}
 		  {% unless onepage.url contains '.html' %}
