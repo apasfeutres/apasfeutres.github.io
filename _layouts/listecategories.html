@@ -3,14 +3,13 @@ layout: page
 ---
 <ul class="categories">
 
-{{ page.url }}
+
+{% assign url = page.url | remove: "index.html" %}
+
 	{% for onepage in site.pages %}
-	     {{ onepage.path }}-{{ onepage.url }}-{{ onepage.layout }}
-	  {% if onepage.layout == 'categorie' and onepage.url contains page.url and onepage.url != page.url %}
-	     {{ onepage.url }}
-		  {% unless onepage.url contains '.html' %}
-			<li><a href="{{ onepage.url }}"><div>{{ onepage.title }}</div><img src="{{ onepage.url }}categorie.png"></a>
-		  {% endunless %}
+    {% assign onepageurl = onepage.url | remove: "index.html" %}
+	  {% if onepage.layout == 'categorie' and onepageurl contains url and onepageurl != url %}
+			<li><a href="{{ onepageurl }}"><div>{{ onepage.title }}</div><img src="{{ onepageurl }}categorie.png"></a>
 	  {% endif %}
 	{% endfor %}
 </ul>
