@@ -4,6 +4,7 @@ layout: page
 <ul class="categories">
 	{% for onepage in site.pages %}
 	  {% if onepage.layout == 'categorie' and onepage.url contains page.url and onepage.url != page.url %}
+	     {{ onepage.url }}
 		  {% unless onepage.url contains '.html' %}
 			<li><a href="{{ onepage.url }}"><div>{{ onepage.title }}</div><img src="{{ onepage.url }}categorie.png"></a>
 		  {% endunless %}
