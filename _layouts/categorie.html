@@ -1,0 +1,20 @@
+---
+layout: page
+---
+<ul class="prods">
+	{% for onepage in site.pages | sort 'url' %}
+	  {% if onepage.url contains page.url and onepage.url != page.url %}
+		  {% unless onepage.url contains '.html' %}
+			<li><a href="{{ onepage.url }}"><div>{{ onepage.title }}</div><img src="{{ onepage.url }}vignette.png"></a>
+		  {% endunless %}
+	  {% endif %}
+	{% endfor %}
+</ul>
+
+<div style="clear:both">Pour les modèles sur commande, voici les couleurs disponibles pour l'instant:
+{% for gallery in site.data.couleurs_disponibles %}
+<img src="/couleurs/{{ gallery }}.png">
+{% endfor %}
+</div>
+
+{{ content }}

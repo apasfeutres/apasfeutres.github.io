@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: listecategories
+type: nav
 title: Chaussons
 weight: 2
 ---
@@ -18,8 +19,3 @@ weight: 2
 {%endfor%}
 -->
 
-	{% for page in site.pages %}
-	  {% if page.path contains path %}
-	  <div><a href="{{ page.url | prepend: site.baseurl |  replace: 'index.html' ,'' }}"><img src="{{ site.baseurl }}{{ page.url  |  replace: 'index.html' ,'' }}categorie.png"></a></div>
-	  {% endif %}
-	{% endfor %}

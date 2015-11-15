@@ -6,7 +6,7 @@
 	  <ul>
 {% assign pages = site.pages | sort: 'title' | sort: 'weight' %}
         {% for page in pages %}
-          {% if page.title %}
+          {% if page.title and page.type == 'nav' %}
           <li><a href="{{ page.url | replace: 'index.html','' | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}

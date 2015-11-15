@@ -1,5 +1,6 @@
 ---
 layout: page
+type: nav
 title: Créations en feutre
 weight: 3
 ---

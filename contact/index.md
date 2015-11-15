@@ -1,5 +1,6 @@
 ---
 layout: page
+type: nav
 title: Contact
 weight: 6
 ---
