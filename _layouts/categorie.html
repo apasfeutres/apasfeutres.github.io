@@ -1,12 +1,13 @@
 ---
 layout: page
 ---
+
+{% assign url = page.url | remove: "index.html" %}
 <ul class="prods">
 	{% for onepage in site.pages | sort 'url' %}
-	  {% if onepage.url contains page.url and onepage.url != page.url %}
-		  {% unless onepage.url contains '.html' %}
-			<li><a href="{{ onepage.url }}"><div>{{ onepage.title }}</div><img src="{{ onepage.url }}vignette.png"></a>
-		  {% endunless %}
+	  {% assign onepageurl = onepage.url | remove: "index.html" %}
+	  {% if onepageurl contains url and onepageurl != url %}
+			<li><a href="{{ onepageurl }}"><div>{{ onepage.title }}</div><img src="{{ onepageurl }}vignette.png"></a>
 	  {% endif %}
 	{% endfor %}
 </ul>
