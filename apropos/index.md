@@ -5,4 +5,5 @@ title: À propos
 weight: 6
 ---
 
-Vive le feutre! Vive la laine !
+- Vive le feutre!
+- Vive la laine !
