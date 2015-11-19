@@ -4,7 +4,7 @@ type: nav
 title: Contact
 weight: 7
 ---
-Contact:
+### Contact
 
 Véronique Corman<br>
 contact@apasfeutres.be<br>
