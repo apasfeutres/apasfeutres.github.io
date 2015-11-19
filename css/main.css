@@ -24,10 +24,17 @@ body {
 	background-color: #c7d5b7;
 	/*font-family:Arial, Helvetica Neue, Helvetica, sans-serif;*/
 	font-family:Georgia, Palatino, Times New Roman, Times, ;
+	display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 body {
 	text-align:center;
+}
+
+.page-content {
+	flex: 1;
 }
 
 a { color: inherit; } 
