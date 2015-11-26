@@ -4,38 +4,9 @@ layout: default
 
 {% assign url = page.url | remove: "index.html" %}
 
-    <nav>
+{% include sousmenu.html %}
 
-<ul>
-	{% for onepage in site.pages %}
-      {% assign onepageurl = onepage.url | remove: "index.html" %}
-	  {% if onepage.layout == 'categorie' %}
-			{% if url contains onepageurl %}
-			  <li class="breadcrumb">
-			{% else %}
-			  <li>
-			{% endif %}
-			{% if onepageurl == url %}
-				{{onepage.title }}
-			{% else %}
-				<a href="{{ onepageurl | prepend: site.baseurl }}">{{ onepage.title }}</a>
-			{% endif %}
-	  {% endif %}
-	{% endfor %}
-</ul>	  
-
-	  </nav>
-
-
-{% assign prods = site.pages | sort: "url" %}
-<ul class="prods">
-	{% for onepage in prods %}
-	  {% assign onepageurl = onepage.url | remove: "index.html" %}
-	  {% if onepageurl contains url and onepageurl != url %}
-			<li><a href="{{ onepageurl }}"><img src="{{ onepageurl }}vignette.png"></a>
-	  {% endif %}
-	{% endfor %}
-</ul>
+{% include listeproduits.html %}
 
 <div style="clear:both; padding-top:1em">Pour les modèles sur commande, voici les couleurs disponibles pour l'instant:
 {% for gallery in site.data.couleurs_disponibles %}

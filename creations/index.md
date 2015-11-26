@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: produits
 type: nav
 title: Créations en feutre
 weight: 3
 ---
-<!--
-{% for produit in site.produits %}
+
+
+<!-- {% for produit in site.produits %}
 <li><a href="{{ produit.url }}">{{ produit.title }}</a>
 {% endfor %}
 

@@ -1,0 +1,13 @@
+{% assign url = page.url | remove: "index.html" %}
+
+
+
+{% assign prods = site.pages | sort: "url" %}
+<ul class="prods">
+	{% for onepage in prods %}
+	  {% assign onepageurl = onepage.url | remove: "index.html" %}
+	  {% if onepageurl contains url and onepageurl != url %}
+			<li><a href="{{ onepageurl }}"><img src="{{ onepageurl }}vignette.jpg"></a>
+	  {% endif %}
+	{% endfor %}
+</ul>

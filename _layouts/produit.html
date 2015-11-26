@@ -1,5 +1,9 @@
 ---
 layout: page
 ---
-<img src="vignette.png">
+{% assign url = page.url | remove: "index.html" %}
+
+{% include sousmenu.html %}
+
+<img src="vignette.jpg">
 {{ content }}
