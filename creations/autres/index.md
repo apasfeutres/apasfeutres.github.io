@@ -1,6 +1,6 @@
 ---
 layout: categorie
-title: Accessoires
+title: Autres
 weight: 4
 ---
 
