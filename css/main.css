@@ -49,17 +49,30 @@ body {
 
 .page-content {
 	flex: 1;
+	text-align:left;
 }
 
-a { color: inherit; } 
+
+a { 
+	color: inherit; 
+	text-decoration:none;
+	font-weight: bold;
+} 
 
 .site-title {
-        font-family: 'FFFTusj';
+	font-family: 'FFFTusj';
+	font-weight: normal;
 	font-size: 4em;
+}
+
+.subtitle {
+	font-weight: bold;
 }
 
 nav {
 	text-align:center;
+	font-style: italic;
+	font-size: 1.2em;
 }
 
 nav ul {
@@ -69,9 +82,10 @@ nav ul {
 
 nav li {
 	display:inline;
-	margin:1em;
+	margin:.8em;
 	font-weight:bold;
 }
+
 
 .breadcrumb { 
   color: #147F1E;
@@ -123,7 +137,9 @@ footer {
 	clear:both;
 	border-top: 2px solid black;
 	margin: 1em;
-	padding: 1em;
+	padding-top: 1em;
 }
 
-
+.centered {
+	text-align:center;
+}

@@ -3,9 +3,10 @@
     <nav>
 
 <ul>
-	{% for onepage in site.pages %}
+{% assign pages = site.pages | sort: 'title' | sort: 'weight' %}
+	{% for onepage in pages %}
       {% assign onepageurl = onepage.url | remove: "index.html" %}
-	  {% if onepage.layout == 'categorie' %}
+	  {% if onepage.layout == 'categorie' or onepage.layout == 'subpage' %}
 			{% if url contains onepageurl %}
 			  <li class="breadcrumb">
 			{% else %}

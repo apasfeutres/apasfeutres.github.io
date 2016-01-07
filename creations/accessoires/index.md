@@ -1,12 +1,11 @@
-<!--
 ---
-layout: listecategories
-type: nav
-title: Chaussons
-weight: 2
+layout: categorie
+title: Accessoires
+weight: 4
 ---
 
-{% for produit in site.produits %}
+
+<!-- {% for produit in site.produits %}
 <li><a href="{{ produit.url }}">{{ produit.title }}</a>
 {% endfor %}
 
@@ -19,4 +18,5 @@ weight: 2
     {%endfor%}
 {%endfor%}
 -->
+
 
