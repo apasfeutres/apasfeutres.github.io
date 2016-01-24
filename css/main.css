@@ -44,7 +44,7 @@ body {
 	
 	background-color: #c7d5b7;
     margin: -8px auto;
-    max-width: 900px;
+    max-width: 925px;
 }
 
 .page-content {
@@ -109,12 +109,16 @@ nav li {
 }
 .categories li {
 	float: left;
+	text-align:center;
 	margin: 1em;
 	font-weight: 700;
+	border: solid green;
+	border-radius:5px;
 }
 .categories li img {
 	max-height: 250px;
 	overflow: hidden;
+	margin-bottom:-5px;
 }
 .categories a {
 	text-decoration:none;
@@ -151,7 +155,6 @@ footer {
 }
 
 
-
 @media (max-width: 600px) {
 	body, .body-wrapper {
 		background-color:redd;
@@ -170,5 +173,19 @@ footer {
 	}
 	nav li {
 		margin:.2em;
+	}
+	.categories li {
+		float:none;
+	}
+	.categories li img {
+		max-height:none;
+		width:100%;
+	}
+	.site-title {
+		font-size:3em;
+	}
+	.prods li,.prods li img {
+		max-height:none;
+		max-width:100%;
 	}
 }
