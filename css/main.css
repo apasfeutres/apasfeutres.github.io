@@ -60,6 +60,11 @@ a {
 	font-weight: bold;
 } 
 
+img {
+	max-width:100%;
+}
+
+
 .site-title {
 	font-family: 'FFFTusj';
 	font-weight: normal;
@@ -153,6 +158,7 @@ footer {
 .centered {
 	text-align:center;
 }
+
 
 
 @media (max-width: 600px) {
