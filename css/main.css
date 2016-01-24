@@ -162,4 +162,7 @@ footer {
 	*[data-shorttitle]:after {
 		content: attr(data-shorttitle);
 	}
+	nav {
+		font-size: 1em;
+	}
 }
