@@ -1,28 +1,3 @@
 <header>
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 </header>
-<div class="subtitle">Une gamme de chaussons 100% laine locale, pour les petits et pour les grands.</div>
-
-    <nav>
-	  <ul>
-{% assign url = page.url | remove: 'index.html' %}
-{% assign pages = site.pages | sort: 'title' | sort: 'weight' %}
-        {% for page in pages %}
-          {% if page.title and page.type == 'nav' %}
-			{% assign onepageurl = page.url | remove: 'index.html' %}
-			{% if url contains onepageurl %}
-			  <li class="breadcrumb">
-			{% else %}
-			  <li>
-			{% endif %}
-			{% if onepageurl == url %}
-				{{ page.title }}
-			{% else %}
-				<a href="{{ onepageurl | prepend: site.baseurl }}">{{ page.title }}</a>
-			{% endif %}
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </nav>
-
-
