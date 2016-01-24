@@ -165,4 +165,7 @@ footer {
 	nav {
 		font-size: 1em;
 	}
+	nav ul {
+		margin-bottom:0;
+	}
 }

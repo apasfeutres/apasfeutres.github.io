@@ -11,9 +11,9 @@
 			{% endif %}
 			{% assign onepageurl = page.url | remove: 'index.html' %}
 			{% if url contains onepageurl %}
-			  <li class="breadcrumb" data-shorttitle="{{ shorttitle }}">
+			  <li class="breadcrumb">
 			{% else %}
-			  <li data-shorttitle="{{ shorttitle }}">
+			  <li>
 			{% endif %}
 			{% if onepageurl == url %}
 				<span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span><span>
