@@ -149,3 +149,17 @@ footer {
 .centered {
 	text-align:center;
 }
+
+
+
+@media (max-width: 600px) {
+	body, .body-wrapper {
+		background-color:redd;
+	}
+	*[data-shorttitle] span {
+		display: none;
+	}
+	*[data-shorttitle]:after {
+		content: attr(data-shorttitle);
+	}
+}

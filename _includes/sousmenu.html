@@ -7,15 +7,20 @@
 	{% for onepage in pages %}
       {% assign onepageurl = onepage.url | remove: "index.html" %}
 	  {% if onepage.layout == 'categorie' or onepage.layout == 'subpage' %}
+			{% if onepage.shorttitle %}
+				{% assign shorttitle = onepage.shorttitle %}
+			{% else %}
+				{% assign shorttitle = onepage.title %}
+			{% endif %}
 			{% if url contains onepageurl %}
 			  <li class="breadcrumb">
 			{% else %}
 			  <li>
 			{% endif %}
 			{% if onepageurl == url %}
-				{{onepage.title }}
+				<span data-shorttitle="{{ shorttitle }}"><span>{{onepage.title }}</span><span>
 			{% else %}
-				<a href="{{ onepageurl | prepend: site.baseurl }}">{{ onepage.title }}</a>
+				<a href="{{ onepageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shorttitle }}"><span>{{onepage.title }}</span><span></a>
 			{% endif %}
 	  {% endif %}
 	{% endfor %}

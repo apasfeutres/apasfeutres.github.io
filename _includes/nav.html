@@ -4,16 +4,21 @@
 {% assign pages = site.pages | sort: 'title' | sort: 'weight' %}
         {% for page in pages %}
           {% if page.title and page.type == 'nav' %}
+			{% if page.shorttitle %}
+				{% assign shorttitle = page.shorttitle %}
+			{% else %}
+				{% assign shorttitle = page.title %}
+			{% endif %}
 			{% assign onepageurl = page.url | remove: 'index.html' %}
 			{% if url contains onepageurl %}
-			  <li class="breadcrumb">
+			  <li class="breadcrumb" data-shorttitle="{{ shorttitle }}">
 			{% else %}
-			  <li>
+			  <li data-shorttitle="{{ shorttitle }}">
 			{% endif %}
 			{% if onepageurl == url %}
-				{{ page.title }}
+				<span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span><span>
 			{% else %}
-				<a href="{{ onepageurl | prepend: site.baseurl }}">{{ page.title }}</a>
+				<a href="{{ onepageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span><span></a>
 			{% endif %}
           {% endif %}
         {% endfor %}
