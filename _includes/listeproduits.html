@@ -7,7 +7,7 @@
 	{% for onepage in prods %}
 	  {% assign onepageurl = onepage.url | remove: "index.html" %}
 	  {% if onepageurl contains url and onepageurl != url %}
-			<li><a href="{{ onepageurl }}"><img src="{{ onepageurl }}vignette.jpg"></a>
+			<li><a href="{{ onepageurl }}#page-content"><img src="{{ onepageurl }}vignette.jpg"></a>
 	  {% endif %}
 	{% endfor %}
 </ul>

@@ -60,8 +60,19 @@ a {
 	font-weight: bold;
 } 
 
-img {
-	max-width:100%;
+.prodparent {
+    overflow: hidden;
+	width:100%;
+}
+
+.prodimg {
+    position: absolute;
+    left: -9999px;
+    right: -9999px;
+    margin-left: auto;
+    margin-right: auto;
+	max-width:95vw;
+	max-height:95vh;
 }
 
 
