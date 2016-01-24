@@ -1,7 +1,7 @@
 ---
 layout: page
 type: nav
-title: À propos
+title: À propos
 weight: 6
 ---
 Plasticienne d'origine rurale, j'aime aller chercher la matière première dans les fermes de la région. Il s'y cache des laines originales et passionnantes à travailler.

@@ -1,7 +1,7 @@
 ---
 layout: listecategories
 type: nav
-title: Créations en feutre
+title: Créations en feutre
 weight: 3
 ---
 
