@@ -105,6 +105,11 @@ nav li {
 	font-weight:bold;
 }
 
+.subnav {
+	font-size:1em;
+	font-style: italic;
+}
+
 
 .breadcrumb { 
   color: #147F1E;
@@ -191,6 +196,9 @@ footer {
 	nav li {
 		margin:.2em;
 	}
+	.subnav {
+		font-size:.8em;
+	}
 	.categories li {
 		float:none;
 	}
@@ -201,6 +209,9 @@ footer {
 	.site-title {
 		font-size:3em;
 	}
+	.subtitle {
+		font-size:.8em;
+	}	
 	.prods li,.prods li img {
 		max-height:none;
 		max-width:100%;
