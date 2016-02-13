@@ -4,12 +4,24 @@
 {% assign pages = site.pages | sort: 'title' | sort: 'weight' %}
         {% for page in pages %}
           {% if page.title and page.type == 'nav' %}
-			{% if page.shorttitle %}
+		    {% if page.shorttitle %}
 				{% assign shorttitle = page.shorttitle %}
 			{% else %}
 				{% assign shorttitle = page.title %}
 			{% endif %}
 			{% assign onepageurl = page.url | remove: 'index.html' %}
+
+            {% assign hassubpage = false %}
+	{% for onesubpage in pages %}
+      {% assign onesubpageurl = onesubpage.url | remove: "index.html" %}
+	  {% if onesubpage.layout == 'categorie' or onesubpage.layout == 'subpage' %}
+	  {% if onesubpageurl contains onepageurl %}
+            {% assign hassubpage = true %}
+	  {% endif %}
+	  {% endif %}
+	{% endfor %}
+
+			
 			{% if url contains onepageurl %}
 			  <li class="breadcrumb">
 			{% else %}
@@ -18,9 +30,46 @@
 			{% if onepageurl == url %}
 				<span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span><span>
 			{% else %}
-				<a href="{{ onepageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span><span></a>
+				{% if hassubpage %}
+					<a href="#subnavig"><span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span><span></a>
+				{% else %}
+					<a href="{{ onepageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span><span></a>
+				{% endif %}
 			{% endif %}
-          {% endif %}
+
+				{% if hassubpage %}
+    <nav id="subnavig" class="subnavig">
+
+<ul>
+	{% for onesubpage in pages %}
+      {% assign onesubpageurl = onesubpage.url | remove: "index.html" %}
+	  {% if onesubpage.layout == 'categorie' or onesubpage.layout == 'subpage' %}
+	  
+	  {% if onesubpageurl contains onepageurl %}
+			{% if onesubpage.shorttitle %}
+				{% assign shortsubtitle = onesubpage.shorttitle %}
+			{% else %}
+				{% assign shortsubtitle = onesubpage.title %}
+			{% endif %}
+			{% if url contains onesubpageurl %}
+			  <li class="breadcrumb">
+			{% else %}
+			  <li>
+			{% endif %}
+			{% if onesubpageurl == url %}
+				<span data-shorttitle="{{ shortsubtitle }}"><span>{{onesubpage.title }}</span><span>
+			{% else %}
+				<a href="{{ onesubpageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shortsubtitle }}"><span>{{onesubpage.title }}</span><span></a>
+			{% endif %}
+	  {% endif %}
+	  {% endif %}
+	{% endfor %}
+</ul>	  
+
+	  </nav>			
+	  {% endif %}
+
+		  {% endif %}
         {% endfor %}
       </ul>
     </nav>
