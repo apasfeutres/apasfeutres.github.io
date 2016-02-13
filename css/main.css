@@ -123,10 +123,14 @@ nav li {
 	right: 0px;
     //background: red none repeat scroll 0 0;
     display: none;
+	padding-top:1000px;
+	margin-top:-1000px;
+	pointer-events:none;
 }
 
 .subnavig ul {
 	line-height:1em;
+	pointer-events:auto;
 }
 
 nav:target {
