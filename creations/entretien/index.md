@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: Entretien
-weight: 3
+weight: 4
 ---
 Comment entretenir vos chaussons pour les garder longtemps ?
 
