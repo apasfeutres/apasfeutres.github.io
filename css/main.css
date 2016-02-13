@@ -117,16 +117,15 @@ nav li {
 .subnavig {
 	font-size:1rem;
 	font-style: italic;
-	//text-align: center; 
 	position: absolute; 
-	//margin: auto; 
 	left: 0px; 
 	right: 0px;
-    //background: red none repeat scroll 0 0;
-    display: none;
 	padding-top:1000px;
 	margin-top:-1000px;
 	pointer-events:none;
+	visibility: hidden;
+	opacity: 0;
+	transition: visibility 0s, opacity 0.5s linear;
 }
 
 .subnavig ul {
@@ -135,7 +134,8 @@ nav li {
 }
 
 nav:target {
-    display: block;
+	visibility: visible;
+	opacity: 1;
 }
 
 
@@ -144,6 +144,11 @@ nav:target {
 .breadcrumb { 
   color: #147F1E;
 }
+
+.breadcrumb  nav { 
+  color: initial;
+}
+
 
 .categories, .prods {
 	margin-left: auto;
