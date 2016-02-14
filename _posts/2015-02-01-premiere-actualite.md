@@ -3,4 +3,4 @@ layout: post
 title: Nouveauté du jour
 ---
 
-Ceci est une actu.
+Ceci est une actualité.
