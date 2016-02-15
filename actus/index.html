@@ -13,9 +13,10 @@ weight: 1
       <li>
         <span class="post-meta">{{ post.date | date: "%d/%m/%Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <h2>{{ post.title }}</h2>
+		<article>
+		{{ post.content }}
+		</article>
       </li>
     {% endfor %}
   </ul>
