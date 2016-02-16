@@ -1,3 +1,5 @@
 ---
 layout: produit
 ---
+ 
+ Bottines colorées
