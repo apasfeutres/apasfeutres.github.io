@@ -1,6 +1,6 @@
 ---
 layout: categorie
-title: Autres
+title: Bijoux et accessoires
 weight: 5
 ---
 
