@@ -116,7 +116,7 @@ nav li {
 	position: absolute; 
 	left: 0px; 
 	right: 0px;
-	padding-top:1000px;
+	padding-top:1020px;
 	margin-top:-1000px;
 	pointer-events:none;
 	visibility: hidden;

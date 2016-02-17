@@ -38,6 +38,7 @@
 			{% endif %}
 
 				{% if hassubpage %}
+				{% unless url contains onepageurl %}
     <nav id="subnavig" class="subnavig">
 
 <ul>
@@ -67,7 +68,8 @@
 </ul>	  
 
 	  </nav>			
-	  {% endif %}
+		{% endunless %}
+		{% endif %}
 
 		  {% endif %}
         {% endfor %}
