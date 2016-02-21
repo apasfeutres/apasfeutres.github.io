@@ -27,6 +27,6 @@ L'ensemble de deux matières laine et latex gardent vos pieds à l'abri du froid
 
 **À pas feutrés ce sont des chaussons pour garder le contact avec la terre, tout en ayant la tête dans les étoiles !**
 
--[Liens]- -(/liens/)-
+[-Liens-](/liens/)
 
 <div class="centered"><img src="apropos.jpg" style="max-width:100%;width:500px" alt="Quelques plantes"></div>
