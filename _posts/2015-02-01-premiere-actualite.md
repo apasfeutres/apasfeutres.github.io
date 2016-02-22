@@ -11,3 +11,5 @@ Ateliers feutre à Sommethonne :
 
 D'autres ateliers plus approfondis suivront.
 Les ateliers se passeront à l'ancienne école de Sommethonne en partenariat avec la commune de Meix-devant-Virton et le Centre Culturel de Rossignol-Tintigny.
+
+Les inscriptions se font au Centre Culturel de Rossignol par téléphone au 063/ 41 31 20 ou par mail à l'adresse : ccrt@skynet.be
