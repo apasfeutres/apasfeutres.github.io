@@ -5,6 +5,8 @@ shorttitle: Adulte
 weight: 2
 ---
 <div class="centered">Bientôt, une boutique en ligne</div>
-La collection de *adulte*, à partir de la taille 35. 
+La collection *Adulte*, à partir de la taille 35. 
 
-Fabriquer artisalement par mes petits soins, en séries limités. Je les fabrique sans couture, directement en une seule forme, au fur et à mesure de mes inspirations.
+Fabriquer artisalement par mes petits soins, en séries limités.
+
+Je les façonne sans couture, directement en une seule forme, au fur et à mesure de mes inspirations et des couleurs disponibles.
