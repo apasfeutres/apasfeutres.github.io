@@ -6,7 +6,7 @@
 <ul class="prods">
 	{% for onepage in prods %}
 	  {% assign onepageurl = onepage.url | remove: "index.html" %}
-	  {% if onepageurl contains url and onepageurl != url %}
+	  {% if onepage.layout == 'produit' and onepage.categories == page.category %}
 			<li><a href="{{ onepageurl }}#page-content"><img src="{{ onepageurl }}petite.jpg" sizes="(min-width: 600px) 160px, 100vw" srcset="{{ onepageurl }}vignette.jpg 160w,
 			{{ onepageurl }}petite.jpg 480w,
 			{{ onepageurl }}moyenne.jpg 800w,

@@ -2,6 +2,7 @@
 layout: categorie
 title: Bijoux et accessoires
 weight: 5
+category: bijoux-et-accessoires
 ---
 
 

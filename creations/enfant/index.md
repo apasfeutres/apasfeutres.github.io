@@ -3,6 +3,7 @@ layout: categorie
 title: Chaussons Enfant
 shorttitle: Enfant
 weight: 3
+category: enfant
 ---
 <div class="centered">Bientôt, une boutique en ligne</div>
 La collection *Enfant*, à partir de la taille 16. 

@@ -3,6 +3,7 @@ layout: categorie
 title: Chaussons Adulte
 shorttitle: Adulte
 weight: 2
+category: adulte
 ---
 <div class="centered">Bientôt, une boutique en ligne</div>
 La collection *Adulte*, à partir de la taille 35. 
