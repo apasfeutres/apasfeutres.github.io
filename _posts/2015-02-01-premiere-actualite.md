@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nouveauté du jour
+title: Nouveauté
 ---
 
 Ateliers feutre à Sommethonne :
