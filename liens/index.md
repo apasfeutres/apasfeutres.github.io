@@ -7,16 +7,16 @@ weight: 7
 **Liens autour de la laine**
 
 
-[http://laines.be/](http://laines.be/)
+[Filière Laine](http://laines.be/)
 
-[http://www.fermedescrutins.com/actualite/](http://www.fermedescrutins.com/actualite/)
+[Ferme des Crutins](http://www.fermedescrutins.com/actualite/)
 
-[https://bergeriedelisbelle.wordpress.com/](https://bergeriedelisbelle.wordpress.com/)
+[Bergerie de Lisbelle]https://bergeriedelisbelle.wordpress.com/ 
 
-[www.lalainedescoccinelles.be](http://www.lalainedescoccinelles.be)
+[La laine des coccinelles](http://www.lalainedescoccinelles.be/)
 
-[www.lafilatureduhibou.be](http://www.lafilatureduhibou.be)
+[La filature du Hibou](http://www.lafilatureduhibou.be/)
 
-[http://www.draperie.lu/fr](http://www.draperie.lu/fr)
+[Musée de la draperie à Esch-Sur-Sûre](http://www.draperie.lu/fr)
 
-[http://www.lafeutrerie.be/](http://www.lafeutrerie.be/)
+[La feutrerie](http://www.lafeutrerie.be/)
