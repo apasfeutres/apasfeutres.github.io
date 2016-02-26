@@ -11,7 +11,7 @@ weight: 7
 
 [Ferme des Crutins](http://www.fermedescrutins.com/actualite/)
 
-[Bergerie de Lisbelle]https://bergeriedelisbelle.wordpress.com/ 
+[Bergerie de Lisbelle](https://bergeriedelisbelle.wordpress.com/)
 
 [La laine des coccinelles](http://www.lalainedescoccinelles.be/)
 
