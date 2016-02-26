@@ -4,7 +4,7 @@ title: Liens
 weight: 7
 ---
 
-**Liens autour de la laine**
+*Liens autour de la laine*
 
 
 [Filière Laine](http://laines.be/)
