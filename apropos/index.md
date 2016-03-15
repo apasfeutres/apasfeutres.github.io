@@ -11,11 +11,11 @@ weight: 6
 La laine est lavée en Belgique (Filature du Hibou ou Traitex) et cardée en Belgique ou au Grand Duché du Luxembourg (Filature du Hibou et Musée de la draperie d'Esch-sur-Sûre).
 
 Pour la coloration, j'ai différentes manières de travailler. La première est une recherche de valorisation des laines colorées naturellement, des laines noires, grises, voir brunes. 
-Ensuite pour varier les couleurs, j'utilise les colorants Greener shades,d'origine chimique, sans métaux lourds. Et de temps à autres, je fais des teintures végétales.
+Ensuite pour varier les couleurs, j'utilise les colorants Greener shades, d'origine chimique, sans métaux lourds. Et de temps à autres, je fais des teintures végétales.
 
 Je confectionne ensuite les chaussons dans mon atelier.
 
-Là aussi,je travaille de deux manières. 
+Là aussi, je travaille de deux manières. 
 
 **Les chaussons adultes sont confectionnés sans couture**, grâce à une technique de « moulage », spécifique au feutrage à l'eau. Ces chaussons continuent à « se former » autour du pied apportant un délicieux confort et une chaleur parfaite.
 
