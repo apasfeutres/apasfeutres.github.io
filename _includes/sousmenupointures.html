@@ -6,8 +6,7 @@
 {% assign pages = site.pages | sort: 'title' | sort: 'weight' %}
 	{% for onepage in pages %}
       {% assign onepageurl = onepage.url | remove: "index.html" %}
-	  {% if onepage.layout == 'categorie' or onepage.layout == 'subpage' %}
-        {% if onepage.typecategorie == null %}
+	  {% if onepage.typecategorie == 'pointure' %}
 			{% if onepage.shorttitle %}
 				{% assign shorttitle = onepage.shorttitle %}
 			{% else %}
@@ -23,7 +22,6 @@
 			{% else %}
 				<a href="{{ onepageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shorttitle }}"><span>{{onepage.title }}</span><span></a>
 			{% endif %}
-	    {% endif %}
 	  {% endif %}
 	{% endfor %}
 </ul>	  
