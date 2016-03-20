@@ -6,7 +6,7 @@
 {% assign pages = site.pages | sort: 'title' | sort: 'weight' %}
 	{% for onepage in pages %}
       {% assign onepageurl = onepage.url | remove: "index.html" %}
-	  {% if onepage.typecategorie == 'pointure' %}
+	  {% if onepage.layout == 'pointure' %}
 			{% if onepage.shorttitle %}
 				{% assign shorttitle = onepage.shorttitle %}
 			{% else %}
