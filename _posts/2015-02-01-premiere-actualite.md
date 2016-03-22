@@ -21,11 +21,11 @@ Evenement d'avril à juin : **Exposition sur le thème du chaussons au Musée du
 
 Cette exposition présentera l'origine orientale du chausson et son développement en occident à la fin du Moyen-Âge, dans un second temps la naissance du chausson en feutre moderne dans la Fabrique Amos en Alsace (dès 1795) et ses dérivés par la Charentaise et la Pantoufle Ardennaise; et enfin dans un troisième temps l'avenir du chausson. Les chaussons *A pas feutrés* feront partis de l'exposition.
 
-En projet pour début juillet,**4 jours autour de la laine à Montquitin**. 
+En projet pour début juillet, **4 jours autour de la laine à Montquitin**. 
 
 Deux modules de deux jours.
 
 Le premier, **découverte des laines locales**, depuis la toison brute, non lavée jusqu'à la réalisation d'un petit feutre et de sa coloration avec des teintures végétales.
 
-Le deuxième module sera deux jours d'exporation du **chapeau en feutre** et de toutes les possibilités créative qu'il en découle.
+Le deuxième module sera deux jours d'exporation du  **chapeau en feutre** et de toutes les possibilités créative qu'il en découle.
 Plus de détails bientôt.
