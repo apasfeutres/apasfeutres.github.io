@@ -3,7 +3,7 @@ layout: post
 title: Nouveauté
 ---
 
-Ateliers feutre à Sommethonne :
++Ateliers feutre à Sommethonne :
 
 - Le 16 avril 2016 de 13h30 à 16h30 **Initiation au feutrage en volume**. Création de bracelets, pochettes et autres petits oblets en volume sans couture. 30 €, matériel compris.
 - Le 30 avril 2016 de 13h30 à 16h30 **Initiation au bijoux en feutre**. Création de fleurs, rubans et colliers colorés. 30 €, matériel compris.
@@ -17,11 +17,11 @@ Les ateliers se passeront à l'ancienne école de Sommethonne en partenariat ave
 
 Les inscriptions se font au Centre Culturel de Rossignol par téléphone au 063/ 41 31 20 ou par mail à l'adresse : ccrt@skynet.be
 
-Evenement d'avril à juin : **Exposition sur le thème du chaussons au Musée du feutre de Mouzon**.
++Evenement d'avril à juin : **Exposition sur le thème du chaussons au Musée du feutre de Mouzon**.
 
 Cette exposition présentera l'origine orientale du chausson et son développement en occident à la fin du Moyen-Âge, dans un second temps la naissance du chausson en feutre moderne dans la Fabrique Amos en Alsace (dès 1795) et ses dérivés par la Charentaise et la Pantoufle Ardennaise; et enfin dans un troisième temps l'avenir du chausson. Les chaussons *A pas feutrés* feront partis de l'exposition.
 
-En projet pour début juillet, **4 jours autour de la laine à Montquitin**. 
++En projet pour début juillet, **4 jours autour de la laine à Montquitin**. 
 
 Deux modules de deux jours.
 
