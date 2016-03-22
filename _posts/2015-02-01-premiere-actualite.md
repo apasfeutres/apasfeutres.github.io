@@ -8,10 +8,10 @@ Ateliers feutre à Sommethonne :
 - Le 16 avril 2016 de 13h30 à 16h30 **Initiation au feutrage en volume**. Création de bracelets, pochettes et autres petits oblets en volume sans couture. 30 €, matériel compris.
 - Le 30 avril 2016 de 13h30 à 16h30 **Initiation au bijoux en feutre**. Création de fleurs, rubans et colliers colorés. 30 €, matériel compris.
 
--Samedi 7 mai, de 10h à 16h30 **Fabrication d'un sac en feutre**. Venez inventer le sac de vos rêves sans couture, grâce à la magie du feutre. Il est souhaitable d'avoir déjà une expérience avec le feutrage à l'eau. Prix et details matériels très bientôt.
--Samedi 21 mai, de 10h à 16h30 **Fabrication d'un paire de chaussons en feutre**.
+- Samedi 7 mai, de 10h à 16h30 **Fabrication d'un sac en feutre**. Venez inventer le sac de vos rêves sans couture, grâce à la magie du feutre. Il est souhaitable d'avoir déjà une expérience avec le feutrage à l'eau. Prix et details matériels très bientôt.
+- Samedi 21 mai, de 10h à 16h30 **Fabrication d'un paire de chaussons en feutre**.
 Tel les chaussons *à pas feutrés*, vous aurez l'occasion de fabriquer votre propre paire de chaussons, sans couture. Vous pourrez les costumiser à votre choix. Attention, une première expérience du feutre est demandée, afin de participer à cette atelier. Prix et details matériels très bientôt.
--Samedi 11 juin, de 10h à 16h30 **Fabrication d'un gilet, sans manche**. Nous réaliserons un gilet, sans couture, costumisé selon vos inspirations. Une expérience minimum du feutre est demandée. Prix et details matériels très bientôt.
+- Samedi 11 juin, de 10h à 16h30 **Fabrication d'un gilet, sans manche**. Nous réaliserons un gilet, sans couture, costumisé selon vos inspirations. Une expérience minimum du feutre est demandée. Prix et details matériels très bientôt.
 
 Les ateliers se passeront à l'ancienne école de Sommethonne en partenariat avec la commune de Meix-devant-Virton et le Centre Culturel de Rossignol-Tintigny.
 
