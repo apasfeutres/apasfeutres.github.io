@@ -9,5 +9,5 @@ Deux ateliers de deux jours.
 
 Le premier, **découverte des laines locales**, depuis la toison brute, non lavée jusqu'à la réalisation d'un petit feutre et de sa coloration avec des teintures végétales.
 
-Le deuxième module sera deux jours d'exporation du  **cfeutrage en volume** et de toutes les possibilités créatives qui en découlent.
+Le deuxième module sera deux jours d'exporation du  **feutrage en volume** et de toutes les possibilités créatives qui en découlent.
 Plus de détails bientôt.
