@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 
+title: *Ateliers feutre à Sommethonne* :
 ---
 
-*Ateliers feutre à Sommethonne :
 
 - Le 16 avril 2016 de 13h30 à 16h30 **Initiation au feutrage en volume**. Création de bracelets, pochettes et autres petits oblets en volume sans couture. 30 €, matériel compris.
 - Le 30 avril 2016 de 13h30 à 16h30 **Initiation au bijoux en feutre**. Création de fleurs, rubans et colliers colorés. 30 €, matériel compris.
