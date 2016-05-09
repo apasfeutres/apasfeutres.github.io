@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nouveauté
+title: 
 ---
 
 *Ateliers feutre à Sommethonne :

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nouveauté
+title: 
 ---
 
 *Evenement d'avril à juin 2016: **Exposition sur le thème du chaussons au Musée du feutre de Mouzon**.
