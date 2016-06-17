@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Nouveauté
+title: Stages d'été
 ---
 
-**Ateliers d'été à Montquitin** du 4 au 7 juillet.
+**Ateliers d'été à Sommethonne** du 4 au 7 juillet.
+
+CHANGEMENT DE LIEU!!!! Les stages devaient se passer à Montquintin mais ils auront lieu à Sommethonne!!!
 
 Deux ateliers de deux jours.
 
