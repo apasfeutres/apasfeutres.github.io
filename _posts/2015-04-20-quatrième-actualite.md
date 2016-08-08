@@ -1,14 +1,28 @@
 ---
 layout: post
-title: Marchés d'été
+title: 
 ---
 
-Retrouvez A pas feutrés et ses créations:
+Ateliers feutre, en collaboration avec le Centre Culturel de Rossignol
 
--à la journée Fermes Ouvertes, dimanche 26 juin à la ferme de Bar, à Ethe
- 
--Aux  Apéro Parvis à Saint Hubert, les vendredis 8 juillet et 12 août
+4 dates/ 4 thèmes!!!
 
--A la Petite Foire à Semel le 23 et 24 juillet
+**Sam. 22 octobre à Sommethonne**: **Chaussons** en feutre.
+Réalisation d'une paire de chaussons 100% laine en une seule forme.
 
--Au Marché des Saveurs d'Avioth, le 7 août
+**Sam. 12 novembre à Sommethonne**: **Tapis de feutre d'Anatolie**
+La Turquie a une tradition ancestrale du feutre.
+Nous réaliserons un tapis coloré, aux motifs inspirés de cette technique typique.
+
+**Sam. 8 avril à Rossignol**: **Créer 1000 motifs en feutre grâce au pré-feutre.**
+Le pré-feutre est une technique qui permet de faire de multiples motifs colorés, proche du découpage/collage.
+
+**Sam. 6 mai à Rossignol**: Spécial **chapelier**
+Création d'un chapeau haute couture... sans couture.
+Une journée pour créer le chapeau de vos rêves, aussi fou soit-il!
+
+Matériel à apporter: un essui, une bouilloire, un tablier imperméable, son pique nique et un seau.
+Tarif : 50 euros/journée
+
+Inscriptions via le Centre Culturel de Rossignol :
+[CENTRE CULTUREL ROSSIGNOL-TINTIGNY](http://www.ccrt.be/)
