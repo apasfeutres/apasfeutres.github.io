@@ -18,9 +18,9 @@
 			  <li>
 			{% endif %}
 			{% if onepageurl == url %}
-				<span data-shorttitle="{{ shorttitle }}"><span>{{onepage.title }}</span><span>
+				<span data-shorttitle="{{ shorttitle }}"><span>{{onepage.title }}</span></span>
 			{% else %}
-				<a href="{{ onepageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shorttitle }}"><span>{{onepage.title }}</span><span></a>
+				<a href="{{ onepageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shorttitle }}"><span>{{onepage.title }}</span></span></a>
 			{% endif %}
 	    {% endif %}
 	  {% endif %}
