@@ -31,9 +31,9 @@
 				<span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span><span>
 			{% else %}
 				{% if hassubpage %}
-					<a href="#subnavig"><span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span><span></a>
+					<a href="#subnavig"><span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span></span></a>
 				{% else %}
-					<a href="{{ onepageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span><span></a>
+					<a href="{{ onepageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shorttitle }}"><span>{{ page.title }}</span></span></a>
 				{% endif %}
 			{% endif %}
 
@@ -58,9 +58,9 @@
 			  <li>
 			{% endif %}
 			{% if onesubpageurl == url %}
-				<span data-shorttitle="{{ shortsubtitle }}"><span>{{onesubpage.title }}</span><span>
+				<span data-shorttitle="{{ shortsubtitle }}"><span>{{onesubpage.title }}</span></span>
 			{% else %}
-				<a href="{{ onesubpageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shortsubtitle }}"><span>{{onesubpage.title }}</span><span></a>
+				<a href="{{ onesubpageurl | prepend: site.baseurl }}"><span data-shorttitle="{{ shortsubtitle }}"><span>{{onesubpage.title }}</span></span></a>
 			{% endif %}
 	  {% endif %}
 	  {% endif %}
