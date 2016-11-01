@@ -24,7 +24,7 @@ Nouveau :
 		  {% assign tCategories = onepage.categories | split:" " %}
 		  {% assign tPointures = onepage.pointures | split:" " %}
 		  {% capture sPointure %}{{ page.pointure }}{% endcapture %}
-		  {% if tCategories contains adultenouveau or tPointures contains sPointure %}
+		  {% if tCategories contains 'adultenouveau' or tPointures contains sPointure %}
 				<li><a href="{{ onepageurl | prepend: site.baseurl }}#page-content"><img src="{{ onepageurl | prepend: site.baseurl }}petite.jpg" sizes="(min-width: 600px) 160px, 100vw" srcset="{{ onepageurl | prepend: site.baseurl }}vignette.jpg 160w,
 				{{ onepageurl | prepend: site.baseurl }}petite.jpg 480w,
 				{{ onepageurl | prepend: site.baseurl }}moyenne.jpg 800w,
