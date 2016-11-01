@@ -8,8 +8,10 @@ category: adulte
 
 <div class="centered">Bientôt, une boutique en ligne</div>
 
-{% include intro-nouveaux.md %}
+{% capture my-include %}{% include intro-nouveaux.md %}{% endcapture %}
+{{ my-include | markdownify }}
 
 {% include nouveautes.html %}
 
-{% include intro-anciens.md %}
+{% capture my-include %}{% include intro-anciens.md %}{% endcapture %}
+{{ my-include | markdownify }}
