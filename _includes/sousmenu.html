@@ -1,7 +1,6 @@
 {% assign url = page.url | remove: "index.html" %}
 
-    <nav class="subnav">
-
+<nav class="subnav">
 <ul>
 {% assign pages = site.pages | sort: 'title' | sort: 'weight' %}
 	{% for onepage in pages %}
@@ -26,9 +25,8 @@
 	    {% endif %}
 	  {% endif %}
 	{% endfor %}
-</ul>	  
-
-	  </nav>
+</ul>  
+</nav>
 	  
 <!--form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" >
 <input type="hidden" name="cmd" value="_s-xclick">

@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: categorie
 title: Chaussons Adulte
 shorttitle: Adulte
 weight: 2
@@ -19,6 +19,3 @@ Nouveaux :
 
 Anciens :
 
-{% include listeproduits.html %}
-
-{% include sousmenupointures.html %}
