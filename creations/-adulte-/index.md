@@ -1,14 +1,10 @@
 ---
-layout: default
+layout: subpage
 title: Chaussons Adulte
 shorttitle: Adulte
 weight: 2
 category: adulte
 ---
-{% assign url = page.url | remove: "index.html" %}
-
-{% include sousmenu.html %}
-
 
 <div class="centered">Bientôt, une boutique en ligne</div>
 La collection *Adulte*, à partir de la taille 35. 
