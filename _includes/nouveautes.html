@@ -1,7 +1,7 @@
 {% assign prods = site.pages | sort: "url" %}
 
 
-<ul class="prods">
+<ul class="prods-nouveaux">
 	{% for onepage in prods %}
 	  {% if onepage.layout == 'produit' %}
 		  {% assign onepageurl = onepage.url | remove: "index.html" %}
