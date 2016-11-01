@@ -154,7 +154,7 @@ nav:target {
 .prods {
 	max-width: 492px;
 }
-.adulte ~ .prod {
+.adulte ~ .prods {
 	max-width: 656px;
 }
 
