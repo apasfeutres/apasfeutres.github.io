@@ -27,7 +27,7 @@ Tarif : 50 euros/journée
 Inscriptions :
 [Centre Culturel Rossignol-Tintigny](http://www.ccrt.be/)
 
-###Ell'laine
+### Ell'laine
 
 
 4 créatices/ 1 tonne de laine
@@ -38,14 +38,14 @@ Un nouveau défi autour de la laine locale est lancé:
 Chaussons *A pas feutrés*, tapis, luminaires seront bientôt réalisés avec ce feutre.
 Suivez- nous sur [Ell'laine](https://www.facebook.com/Elllaine-1810238132545396/ "Ell'laine")!
 
-###Marchés
----
+### Marchés
+
 
 Retrouvez les créations d'A pas feutrés:
 
 - Le premier dimanche du mois, au Marchés des Saveurs d'Avioth.
 - Le 13 novembre au Salon Créa'Cosnes à Cosnes et Romain.
-- le 26-27 novembre au Salon Instinct Nature à  Libramont.
+- Le 26-27 novembre au Salon Instinct Nature à Libramont.
 - Le 4 décembre au Marché des créateurs par Lesgremaines, à Spa.
 
   
