@@ -48,6 +48,7 @@ Retrouvez les créations d'A pas feutrés:
 - Le 26-27 novembre au Salon Instinct Nature à Libramont.
 - Le 4 décembre au Marché des créateurs par Lesgremaines, à Spa.
 
+
   
   <div class="centered"><img src="actus.jpg" style="width:100%;max-width:500px" alt="chaussons pointus"></div>
   <!--p class="rss-subscribe">s'inscrire au <a href="{{ "/feed.xml" | prepend: site.baseurl }}">flux RSS</a></p-->
