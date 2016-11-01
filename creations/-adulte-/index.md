@@ -19,7 +19,6 @@ Je les façonne sans couture, directement en une seule forme, au fur et à mesur
 
 Nouveau :
 
-{% assign url = page.url | remove: "index.html" %}
 
 {% assign prods = site.pages | sort: "url" %}
 <ul class="prods">
@@ -43,7 +42,6 @@ Nouveau :
 Anciens :
 
 
-{% assign url = page.url | remove: "index.html" %}
 
 {% assign prods = site.pages | sort: "url" %}
 <ul class="prods">
