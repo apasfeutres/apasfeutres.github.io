@@ -5,5 +5,5 @@ Nouveautés :
 La gamme Tantéo, réalisé avec des plaques de feutre cousus. Ce modèle bas est facile à enfiler, facile à transporter. Il se porte en toute saison.
 
 Bientôt disponible également avec le feutre
-[*Ell'laine*](/http://www.ell-laine.com//).
+[*Ell'laine*](/www.ell-laine.com/).
 
