@@ -1,8 +1,9 @@
 La collection *Adulte*, à partir de la taille 35. 
 
-Fabriqués artisanalement par mes petits soins, en séries limités.
-
-Je les façonne sans couture, directement en une seule forme, au fur et à mesure de mes inspirations et des couleurs disponibles.
-
 Nouveautés :
+
+La gamme Tantéo, réalisé avec des plaques de feutre cousus. Ce modèle bas est facile à enfiler, facile à transporter. Il se porte en toute saison.
+
+Bientôt disponible également avec le feutre
+[*Ell'laine*](/http://www.ell-laine.com//).
 
