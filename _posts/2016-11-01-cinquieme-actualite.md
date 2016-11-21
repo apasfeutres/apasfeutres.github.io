@@ -11,4 +11,4 @@ Retrouvez A pas feutrés sur les marchés:
 - Du 9 au 11 décembre au marché de Noël par Re:creation Hall à Bruxelles. www.recreationhall.net
 - Le samedi 10 décembre au marché de Noël de l'école Eos à Bruxelles. www.ecolesteinerbruxelles.net
 - Les 23, 24, 30 et 31 décembre au marché de Noël des Artisans à Marche-en-Famenne. https://www.marche.be/noelamarche/village-de-noel-des-artisans-pl-aux-foires/
-- Et biensur au marché d'Avioth (ce mois de décembre, j'aurai juste un petit présentoir cra je serais à Spa en même temps).
+- Et biensur au marché d'Avioth (ce mois de décembre, j'aurais juste un petit présentoir car je serais à Spa en même temps).
