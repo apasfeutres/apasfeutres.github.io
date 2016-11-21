@@ -1,11 +1,22 @@
 ---
 layout: post
-title: Marchés
+title: Ateliers 2016-2017 feutre
 ---
 
-Retrouvez les créations d'A pas feutrés:
+En collaboration avec le Centre Culturel de Rossignol
 
-- Le premier dimanche du mois, au Marchés des Saveurs d'Avioth.
-- Le 13 novembre au Salon Créa'Cosnes à Cosnes et Romain.
-- le 26-27 novembre au Salon Instinct Nature à  Libramont.
-- Le 4 décembre au Marché des créateurs par Lesgremaines, à Spa.
+**Sam. 22 octobre à Sommethonne:Chaussons** en feutre. 
+Réalisation d'une paire de chaussons 100% laine en une seule forme.  
+**Sam. 12 novembre à Sommethonne: Tapis de feutre d'Anatolie**. 
+La Turquie a une tradition ancestrale du feutre.
+Nous réaliserons un tapis coloré, aux motifs inspirés de cette technique typique.  
+**Sam. 8 avril à Rossignol: Créer 1000 motifs en feutre grâce au pré-feutre.** 
+Le pré-feutre est une technique qui permet de faire de multiples motifs colorés, proche du découpage/collage.  
+**Sam. 6 mai à Rossignol: Spécial chapelier**. 
+Création d'un chapeau haute couture... sans couture.
+Une journée pour créer le chapeau de vos rêves, aussi fou soit-il!  
+Matériel à apporter: un essui, une bouilloire, un tablier imperméable, son pique nique et un seau. 
+Tarif : 50 euros/journée
+
+Inscriptions :
+[Centre Culturel Rossignol-Tintigny](http://www.ccrt.be/)

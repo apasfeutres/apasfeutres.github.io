@@ -1,22 +1,14 @@
 ---
 layout: post
-title: Ateliers 2016-2017 feutre
+title: Marchés
 ---
 
-En collaboration avec le Centre Culturel de Rossignol
+Retrouvez A pas feutrés sur les marchés:
 
-**Sam. 22 octobre à Sommethonne:Chaussons** en feutre. 
-Réalisation d'une paire de chaussons 100% laine en une seule forme.  
-**Sam. 12 novembre à Sommethonne: Tapis de feutre d'Anatolie**. 
-La Turquie a une tradition ancestrale du feutre.
-Nous réaliserons un tapis coloré, aux motifs inspirés de cette technique typique.  
-**Sam. 8 avril à Rossignol: Créer 1000 motifs en feutre grâce au pré-feutre.** 
-Le pré-feutre est une technique qui permet de faire de multiples motifs colorés, proche du découpage/collage.  
-**Sam. 6 mai à Rossignol: Spécial chapelier**. 
-Création d'un chapeau haute couture... sans couture.
-Une journée pour créer le chapeau de vos rêves, aussi fou soit-il!  
-Matériel à apporter: un essui, une bouilloire, un tablier imperméable, son pique nique et un seau. 
-Tarif : 50 euros/journée
-
-Inscriptions :
-[Centre Culturel Rossignol-Tintigny](http://www.ccrt.be/)
+- Les 26-27 novembre au Salon Instinct Nature à  Libramont.
+- Le 4 décembre au Marché des créateurs par Les Germaines, à Spa. www.lesgermaines.be
+- Les mercredis 7 et 14 décembre au marché de Noël de Louvain-La-Neuve. www.louvainlaneige.be
+- Du 9 au 11 décembre au marché de Noël par Re:creation Hall à Bruxelles. www.recreationhall.net
+- Le samedi 10 décembre au marché de Noël de l'école Eos à Bruxelles. www.ecolesteinerbruxelles.net
+- Les 23, 24, 30 et 31 décembre au marché de Noël des Artisans à Marche-en-Famenne. https://www.marche.be/noelamarche/village-de-noel-des-artisans-pl-aux-foires/
+- Et biensur au marché d'Avioth (ce mois de décembre, j'aurai juste un petit présentoir cra je serais à Spa en même temps).
