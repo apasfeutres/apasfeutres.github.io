@@ -3,7 +3,7 @@
 
 if ($_SERVER['REQUEST_METHOD']=='POST') {
   $password = $_POST['password'];
-  if ($password==file_get_contents('/srv/data/vero/password'))
+  if ($password==preg_replace( "/\r|\n/", "", file_get_contents('/srv/data/vero/password') ))
     passthru('/srv/data/vero/maj.sh 2>&1');
   else
     echo 'Mot de passe incorrect';
