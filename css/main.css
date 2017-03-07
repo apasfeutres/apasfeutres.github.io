@@ -28,6 +28,7 @@ body {
 	background-repeat: repeat-y;
 	margin-left: 0;
     margin-right: 0;
+    margin-bottom: 0;
 	text-align:center;
 }
 
@@ -209,6 +210,9 @@ footer {
 	text-align:center;
 }
 
+.centered > img {
+	max-width: 100%;
+}
 
 
 @media (max-width: 600px) {
