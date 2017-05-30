@@ -4,28 +4,24 @@ type: nav
 title: Actualités
 weight: 1
 ---
-### Marchés de Noël
-
-Retrouvez A pas feutrés sur les marchés:
-
-- Les 26-27 novembre au Salon Instinct Nature à  Libramont.
-- Le 4 décembre au Marché des créateurs par Les Germaines, à Spa. www.lesgermaines.be
-- Les mercredis 7 et 14 décembre au marché de Noël de Louvain-La-Neuve. www.louvainlaneige.be
-- Du 9 au 11 décembre au marché de Noël par Re:creation Hall à Bruxelles. www.recreationhall.net
-- Le samedi 10 décembre au marché de Noël de l'école Eos à Bruxelles. www.ecolesteinerbruxelles.net
-- Les 23, 24, 30 et 31 décembre au marché de Noël des Artisans à Marche-en-Famenne. https://www.marche.be/noelamarche/village-de-noel-des-artisans-pl-aux-foires/
-- Et biensur au marché d'Avioth (ce mois de décembre, j'aurais juste un petit présentoire car je serais à Spa en même temps). 
-
 ### Ell'laine
 
 
 4 créatices/ 1 tonne de laine
 
-Un nouveau défi autour de la laine locale est lancé:
-*[Ell'laine](https://www.facebook.com/Elllaine-1810238132545396/)*, une tonne de laine transformée en feutre. Cette laine provient d'un éleveur situé à Nassogne en Province du Luxembourg.
-4 créatrices ont décidé de relever le défi d'en faire des produits finis.
-Chaussons *A pas feutrés*, tapis, luminaires seront bientôt réalisés avec ce feutre.  
-Suivez- nous sur [Ell'laine](https://www.facebook.com/Elllaine-1810238132545396/ "Ell'laine")!
+A pas feutrés s'est associé à 2 autres créatices pour un nouveau défi 100% laine locale. L'objectif: valoriser 1 tonne de laine brute en produits finis.
+La laine provient d'un élevage à Nassogne. Elle a été feutrée début 2017 en Allemange. Nous proposons une collection de produits finis grâce à notre catalogue en ligne. Au menu: trousses, sacs, tapis,... et bien sûr, des chaussons!!!
+
+Suivez- nous sur ¨[Ell'laine](http://www.ell-laine.com) et sur [Facebook](https://www.facebook.com/Elllaine-1810238132545396/ "Ell'laine")!
+
+### Marchés 
+Retrouvez A pas feutrés sur les marchés:
+
+- Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois.
+- Au Colloque des teintures végétales au Bruxelles le 3 et 4 juin 2017.
+- Au Festival Renaissance à Bar-Le-Duc, le 1 et 2 juillet.
+- A la Petite Foire à Semmelle au mois de juillet.
+
 
 
  
@@ -45,7 +41,8 @@ Le pré-feutre est une technique qui permet de faire de multiples motifs coloré
 Création d'un chapeau haute couture... sans couture.
 Une journée pour créer le chapeau de vos rêves, aussi fou soit-il!  
 Matériel à apporter: un essui, une bouilloire, un tablier imperméable, son pique nique et un seau. 
-Tarif : 50 euros/journée
+
+Ateliers cloturés. Les prochaines dates très bientôt....
 
 Inscriptions :
 [Centre Culturel Rossignol-Tintigny](http://www.ccrt.be/)
