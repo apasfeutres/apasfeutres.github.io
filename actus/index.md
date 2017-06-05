@@ -9,18 +9,18 @@ weight: 1
 
 4 créatices/ 1 tonne de laine
 
-A pas feutrés s'est associé à 2 autres créatices pour un nouveau défi 100% laine locale. L'objectif: valoriser 1 tonne de laine brute en produits finis.
+À pas feutrés s'est associé à 2 autres créatices pour un nouveau défi 100% laine locale. L'objectif: valoriser 1 tonne de laine brute en produits finis.
 La laine provient d'un élevage à Nassogne. Elle a été feutrée début 2017 en Allemange. Nous proposons une collection de produits finis grâce à notre catalogue en ligne. Au menu: trousses, sacs, tapis,... et bien sûr, des chaussons!!!
 
-Suivez- nous sur ¨[Ell'laine](http://www.ell-laine.com) et sur [Facebook](https://www.facebook.com/Elllaine-1810238132545396/ "Ell'laine")!
+Suivez-nous sur [Ell'laine](http://www.ell-laine.com) et sur [Facebook](https://www.facebook.com/Elllaine-1810238132545396/ "Ell'laine")!
 
 ### Marchés 
-Retrouvez A pas feutrés sur les marchés:
+Retrouvez À pas feutrés sur les marchés:
 
 - Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois.
 - Au Colloque des teintures végétales au Bruxelles le 3 et 4 juin 2017.
 - Au Festival Renaissance à Bar-Le-Duc, le 1 et 2 juillet.
-- A la Petite Foire à Semmelle au mois de juillet.
+- À la Petite Foire à Semmelle au mois de juillet.
 
 
 
@@ -30,7 +30,7 @@ Retrouvez A pas feutrés sur les marchés:
 
 En collaboration avec le Centre Culturel de Rossignol
 
-**Sam. 22 octobre à Sommethonne:Chaussons** en feutre. 
+**Sam. 22 octobre à Sommethonne: Chaussons** en feutre. 
 Réalisation d'une paire de chaussons 100% laine en une seule forme.  
 **Sam. 12 novembre à Sommethonne: Tapis de feutre d'Anatolie**. 
 La Turquie a une tradition ancestrale du feutre.
