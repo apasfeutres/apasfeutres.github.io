@@ -19,30 +19,29 @@ Retrouvez A pas feutrés sur les marchés:
 
 - Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois.
 - Au Colloque des teintures végétales au Bruxelles le 3 et 4 juin 2017.
-- Au Festival Renaissance à Bar-Le-Duc, le 1 et 2 juillet.
 - A la Petite Foire à Semmelle au mois de juillet.
+- Au Salon Valériane à Namur du 1 au 3 septembre.
 
 
 
  
-#### Ateliers 2016-2017 feutre    
+####Nouvelle saison: Ateliers 2017-2018 feutre    
 
 
 En collaboration avec le Centre Culturel de Rossignol
 
-**Sam. 22 octobre à Sommethonne:Chaussons** en feutre. 
-Réalisation d'une paire de chaussons 100% laine en une seule forme.  
-**Sam. 12 novembre à Sommethonne: Tapis de feutre d'Anatolie**. 
-La Turquie a une tradition ancestrale du feutre.
-Nous réaliserons un tapis coloré, aux motifs inspirés de cette technique typique.  
-**Sam. 8 avril à Rossignol: Créer 1000 motifs en feutre grâce au pré-feutre.** 
-Le pré-feutre est une technique qui permet de faire de multiples motifs colorés, proche du découpage/collage.  
-**Sam. 6 mai à Rossignol: Spécial chapelier**. 
-Création d'un chapeau haute couture... sans couture.
-Une journée pour créer le chapeau de vos rêves, aussi fou soit-il!  
+**Sam. 28 octobre à Sommethonne: Bijoux.** 
+Une journée créative autour des bijoux.
+Vous aurez l'occasion de fabriquer des parures colorées et fleuries selon vos goûts.  
+**Sam. 18 novembre à Sommethonne: Chaussons.**
+Réalisation d'une paire de chaussons 100% laine en une seule forme grâce au feutrage à l'eau.  
+**Sam. 24 février à Sommethonne: Chapeaux.** 
+Atelier chapeaux haute couture... sans couture.
+Créer le chapeau de vos rêves, aussi fou soit-il!  
+**Sam. 17 mars à Sommethonne: Sacs** 
+Réalisation d'un sac créatif et coloré, 100% laine.
+ 
 Matériel à apporter: un essui, une bouilloire, un tablier imperméable, son pique nique et un seau. 
-
-Ateliers cloturés. Les prochaines dates très bientôt....
 
 Inscriptions :
 [Centre Culturel Rossignol-Tintigny](http://www.ccrt.be/)
