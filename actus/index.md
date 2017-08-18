@@ -19,8 +19,10 @@ Retrouvez À pas feutrés sur les marchés:
 
 - Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois.
 - Au Colloque des teintures végétales au Bruxelles le 3 et 4 juin 2017.
-- À la Petite Foire à Semmelle au mois de juillet.
-- Au Salon Valériane à Namur du 1 au 3 septembre.
+- À la Petite Foire à Semmelle au mois de juillet 2017.
+- Au Salon Valériane à Namur du 1 au 3 septembre 2017.
+- Au Salon Aubépine à Arlon du 30/09 au 01/10/2017.
+- Aux boutiques des créateurs de la Lux Fashion week à Arlon.
 
 
 
