@@ -9,17 +9,17 @@ weight: 1
 
 4 créatices/ 1 tonne de laine
 
-A pas feutrés s'est associé à 2 autres créatices pour un nouveau défi 100% laine locale. L'objectif: valoriser 1 tonne de laine brute en produits finis.
+À pas feutrés s'est associé à 2 autres créatices pour un nouveau défi 100% laine locale. L'objectif: valoriser 1 tonne de laine brute en produits finis.
 La laine provient d'un élevage à Nassogne. Elle a été feutrée début 2017 en Allemange. Nous proposons une collection de produits finis grâce à notre catalogue en ligne. Au menu: trousses, sacs, tapis,... et bien sûr, des chaussons!!!
 
-Suivez- nous sur ¨[Ell'laine](http://www.ell-laine.com) et sur [Facebook](https://www.facebook.com/Elllaine-1810238132545396/ "Ell'laine")!
+Suivez-nous sur [Ell'laine](http://www.ell-laine.com) et sur [Facebook](https://www.facebook.com/Elllaine-1810238132545396/ "Ell'laine")!
 
 ### Marchés 
-Retrouvez A pas feutrés sur les marchés:
+Retrouvez À pas feutrés sur les marchés:
 
 - Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois.
 - Au Colloque des teintures végétales au Bruxelles le 3 et 4 juin 2017.
-- A la Petite Foire à Semmelle au mois de juillet.
+- À la Petite Foire à Semmelle au mois de juillet.
 - Au Salon Valériane à Namur du 1 au 3 septembre.
 
 
