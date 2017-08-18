@@ -9,7 +9,7 @@ Au menu: chaussons, lampes, sacs , galettes de chaises et encore d'autres surpri
 
 **Retrouvez-nous au Salon Valériane à Namur du 1 au 3 septembre**
 
-Suivez-nous sur notre page [*Facebook*](https://www.facebook.com/Elllaine-1810238132545396/) et sur [notre site](http://www.ell-laine.com/), 
+Suivez-nous sur notre page [*Facebook*](https://www.facebook.com/Elllaine-1810238132545396/) et sur [notre site](http://www.ell-laine.com/)
 
 <div class="home">
 
