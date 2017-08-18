@@ -14,4 +14,4 @@ contact@apasfeutres.be<br>
 <br>
 </div>
 
-<div class="centered"><img src="/contact.JPG" style="width:100%;max-width:500px" alt="Des chaussons déposés en cercle"></div>
+<div class="centered"><img src="contact.JPG" style="width:100%;max-width:500px" alt="Des chaussons déposés en cercle"></div>

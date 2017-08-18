@@ -17,7 +17,7 @@ Suivez-nous sur notre page [*Facebook*](https://www.facebook.com/Elllaine-181023
 <div class="home">
 
   
-  <div class="centered"><img src="accueil.jpg"></div>
+  <div class="centered"><img src="vignette1.jpg"><img src="vignette2.jpg"><img src="vignette3.jpg"></div>
 
   <!--p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p-->
 
