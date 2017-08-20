@@ -12,5 +12,5 @@ Suivez les dates dans [Actualité](/actus/) ou sur [Facebook](https://www.facebo
 Il est également possible de former des groupes spontanés, entre amis ou en fonction des demandes.
 
 <div class="centered">
-<img src="ateliers.jpg" style="max-width:100%;width:500px" alt="casserole de teintures">
+<img src="ateliers.jpg" alt="atelier">
 </div>
