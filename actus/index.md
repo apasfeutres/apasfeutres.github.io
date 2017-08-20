@@ -52,5 +52,5 @@ Inscriptions :
 
 
   
-<div class="centered"><img src="actus.jpg" style="width:100%;max-width:500px" alt="chaussons pointus"></div>
+<div class="centered"><img src="actus.jpg" alt="chaussons pointus"></div>
 <!--p class="rss-subscribe">s'inscrire au <a href="{{ "/feed.xml" | prepend: site.baseurl }}">flux RSS</a></p-->
