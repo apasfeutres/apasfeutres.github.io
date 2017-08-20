@@ -15,4 +15,4 @@ Depuis quelques mois, une nouvelle collaboration s'est mise en route: **Ell'lain
 
 [*Liens*](/liens/)
 
-<div class="centered"><img src="apropos.jpg" style="max-width:100%;width:500px" alt="Quelques plantes"></div>
+<div class="centered"><img src="apropos.jpg" alt="feutre"></div>
