@@ -9,6 +9,6 @@ La semelle des chaussons est composée de plusieurs couches de latex, il faut re
  
 **Comment laver vos chaussons ?**
 
-Les chaussons sont lavables en machine, programme laine ou à la main.
+Les chaussons sont lavables à la main à l'eau tiède.
 
 <div class="centered"><img src="entretien.jpg" alt="feutre"></div>
