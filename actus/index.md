@@ -4,15 +4,6 @@ type: nav
 title: Actualités
 weight: 1
 ---
-### Ell'laine
-
-
-4 créatices/ 1 tonne de laine
-
-À pas feutrés s'est associé à 2 autres créatices pour un nouveau défi 100% laine locale. L'objectif: valoriser 1 tonne de laine brute en produits finis.
-La laine provient d'un élevage à Nassogne. Elle a été feutrée début 2017 en Allemange. Nous proposons une collection de produits finis grâce à notre catalogue en ligne. Au menu: trousses, sacs, tapis,... et bien sûr, des chaussons!!!
-
-Suivez-nous sur [Ell'laine](http://www.ell-laine.com) et sur [Facebook](https://www.facebook.com/Elllaine-1810238132545396/ "Ell'laine")!
 
 ### Marchés 
 Retrouvez À pas feutrés sur les marchés:
@@ -23,7 +14,7 @@ Retrouvez À pas feutrés sur les marchés:
 
 
  
-### Nouvelle saison: Ateliers 2017-2018 feutre    
+###Ateliers 2017-2018 feutre    
 
 
 En collaboration avec le Centre Culturel de Rossignol
