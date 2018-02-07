@@ -1,3 +1,5 @@
+Nouveau!!!! Retrouvez nos chaussons sur la boutique en ligne de le [*Comptoir des laines*] (https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1) !!!!
+
 La collection *Adulte*, à partir de la taille 35. 
 
 
