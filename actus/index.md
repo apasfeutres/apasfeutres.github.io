@@ -9,7 +9,7 @@ weight: 1
 Retrouvez À pas feutrés sur les marchés:
 
 - Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois.
-- Sur la boutique en ligne de le [*Comptoir des laines*] (https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1)
+- Sur la boutique en ligne de le [*Comptoir des laines*](https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1)
 
 
 
