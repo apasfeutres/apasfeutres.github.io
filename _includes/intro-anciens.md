@@ -1,5 +1,9 @@
 
 
-Mocassins en feutre, cousus à la main pour un super confort. Modèle réalisé en petites séries avec motifs en impressions naturelles.
-Existe également en modèle haut.
-Comme pour le modèle Tantéo, ces chaussons sont couverts d'un semelle en latex naturel.
+**Comment entretenir vos chaussons pour les garder longtemps ?**
+
+La semelle des chaussons est composée de plusieurs couches de latex, il faut renouveler celui-ci avant que le feutre ne soit usé. Pour cela, vous pouvez reprendre contact avec moi.
+
+**Comment laver vos chaussons ?**
+
+Les chaussons sont lavables à la main à l’eau tiède.
