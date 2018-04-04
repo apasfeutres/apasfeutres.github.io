@@ -19,9 +19,9 @@ weight: 1
 
 Bientôt de nouvelles dates pour les ateliers feutre à Sommethonne (2018-2019).
 
-D'ici là, venez participer aux après-midis feutre à Mouzon, organisées par le ¨[Musée du feutre](http://mouzon.fr/presentation-du-musee.html)
+D'ici là, venez participer aux après-midis feutre à Mouzon, organisées par le [Musée du feutre](http://mouzon.fr/presentation-du-musee.html)
 
-*
+
 
 
 
