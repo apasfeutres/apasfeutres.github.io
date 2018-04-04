@@ -17,9 +17,19 @@ weight: 1
 ### Ateliers 2017-2018 feutre    
 
 
-Bientôt de nouvelles dates pour les ateliers feutre à Sommethonne (2018-2019).
+	Bientôt de nouvelles dates pour les ateliers feutre à Sommethonne (2018-2019).
 
-D'ici là, venez participer aux après-midis feutre à Mouzon, organisées par le [Musée du feutre](http://mouzon.fr/presentation-du-musee.html)
+D'ici là, vous pouvez participer aux après-midis feutre à Mouzon, organisées par le [Musée du feutre](http://mouzon.fr/presentation-du-musee.html), chaque premier samedi du mois à Mouzon!
+
+Au programme:
+
+7 avril 2018: Création de bijoux en feutre
+
+5 mai 2018  : Petit coussin avec motifs en feutre
+
+2 juin 2018 : Chapeau en feutre
+
+7 juillet 2018:Pochette/sac en feutre
 
 
 
