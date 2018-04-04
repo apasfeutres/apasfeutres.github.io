@@ -9,8 +9,8 @@ weight: 7
 
 Véronique Corman<br>
 contact@apasfeutres.be<br>
-63, rue haute 6769 Sommethonne<br>
-+32 470 63 49 58<br>
+63, rue haute 6769 B-Sommethonne<br>
++32 (0) 470 63 49 58<br>
 <br>
 </div>
 
