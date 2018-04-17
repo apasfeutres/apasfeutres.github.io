@@ -1,8 +1,5 @@
-La collection *Adulte*, à partir de la taille 35. 
+A pas feutrés propose des chaussons Adulte à partir de la pointure 35. Le modèle principale est le modèle Tantéo, type espadrille, simple et facile à enfiler. Je propose également des mocassins et des bottes, en séries limitées. Tous les chaussons sont pourvus d'une semelle en caoutchouc naturel. N'hésitez pas à me contacter pour plus d'informations.
 
 
-La gamme Tantéo 100% feutre Ell'laine. Ce modèle bas est facile à enfiler, facile à transporter. Il se porte en toute saison.
-
-Catalogue en ligne disponible sur:
-[*Ell'laine*](/www.ell-laine.com/).
+Nous pouvez retrouver les modèles et tailles disponibles sur ma [boutique en ligne](https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1).
 
