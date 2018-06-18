@@ -10,6 +10,7 @@ weight: 1
 - Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois.
 - Sur la boutique en ligne du [Comptoir des laines](https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1)
 - Chez Naturwelten à Luxembourg Ville
+- Au comptoir de la cigogne à Toernich
 
 
 
