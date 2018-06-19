@@ -6,12 +6,9 @@ weight: 3
 category: enfant
 ---
 
-La collection *Enfant*, de la taille 16 à 34.
-Par deux pointures, exemple: 18-19 ou 20-21. 
+De la taille 16 à 34, les chaussons Babéo sont parfaits pour un bon contact avec le sol. La souplesse et la chaleur de la laine liées à une semelle anti-dérapante assurent confort et sécurité.
 
-Pour des petits petons en sécurité et bien au chaud!
+Baleines, étoiles, tortures, des thèmes de la nature mis en valeur par des couleurs extraites.... de la nature!!!
+(Extraits de plantes tinctoriales)
 
-Ce modèle contient un élastique à la cheville pour un bon maintien et une semelle en latex, antidérapante.
-
-Les motifs sont réalisés à l'aide de teintures naturelles.
  
