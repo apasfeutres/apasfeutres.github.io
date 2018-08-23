@@ -51,13 +51,12 @@ Condition: avoir déjà une expérience du feutrage à l'eau.
 __18 mai__ *Surfaces en relief et textures*:
 Réalisations d'objets décoratifs en relief ou en texture.
 
-Infos pratiques:
-La matériel n'est pas compris dans le prix. (5 euro/ atelier bijou et 15 euro/ autres ateliers)
-Matériel à apporter: un essuie, une bouilloire, un tablier imperméable et un seau moyen.
-Prendre son pique-nique.
+__Infos pratiques:__
+Matériel à apporter: un essuie, une bouilloire, un tablier imperméable, un seau moyen et pique-nique.
 Lieux: ancienne école de Sommethonne (Place de France)
-Tarif: 40 euros /journée (hors matériau)
+Tarif: 40 euros /journée (hors matériaux) 
 
+La matériel n'est pas compris dans le prix. (5 euro/ atelier bijou et 15 euro/ autres ateliers)
 
 
 
