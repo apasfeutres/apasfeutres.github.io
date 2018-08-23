@@ -9,7 +9,7 @@ weight: 1
 
 - Salon Valériane à Namur, les 31/08, 01/09 et 02/09. (Au stand collectif de la Filière Laine)
 - Marché spécial "Mailles et laines" à Hall recreation, Bruxelles
-- Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois.
+- Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois
 - Sur la boutique en ligne du [Comptoir des laines](https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1)
 - Chez Naturwelten à Luxembourg Ville
 - Au comptoir de la cigogne à Toernich
@@ -24,10 +24,11 @@ __Date unique__: Atelier créatif *motifs en découpe* à
 Cuest'art. Recherches graphiques et effets magiques.
 
 Le samedi 15 septembre de 10h à 17h au S'lo coutchant
-Plus d'info: https://www.cuestart.be/stages-et-animations/stages-pour-adultes/
+
+Plus d'info:[Cuest'Art](https://www.cuestart.be/stages-et-animations/stages-pour-adultes/)
 
 
-À Sommethonne, en partenariat avec le Centre Culturel de Rossignol et la Commune de Meix-devant-Virton.
+__À Sommethonne__, en partenariat avec le Centre Culturel de Rossignol et la Commune de Meix-devant-Virton.
 
 __20 octobre__ *Bijoux et fleurs*:
 Découvertes de la technique du feutre
