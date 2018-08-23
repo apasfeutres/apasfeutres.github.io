@@ -5,7 +5,3 @@ shorttitle: Accessoires
 weight: 4
 category: accessoire
 ---
-<div class="accessoires">
-
-
-</div>
