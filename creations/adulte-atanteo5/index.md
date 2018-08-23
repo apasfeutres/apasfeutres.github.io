@@ -1,4 +1,4 @@
 ---
 layout: produit
-categories: adultenouveau
+categories: adulte
 ---

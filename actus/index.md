@@ -8,7 +8,7 @@ weight: 1
 ### Où trouver À pas feutrés?
 
 - Salon Valériane à Namur, les 31/08, 01/09 et 02/09. (Au stand collectif de la Filière Laine)
-- Marché spécial "mailles et
+- Marché spécial "Mailles et laines" à Hall recreation, Bruxelles
 - Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois.
 - Sur la boutique en ligne du [Comptoir des laines](https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1)
 - Chez Naturwelten à Luxembourg Ville
@@ -20,7 +20,7 @@ weight: 1
 ### Ateliers 2017-2018 feutre    
 
 
-Date unique: Atelier créatif *motifs en découpe* à
+__Date unique__: Atelier créatif *motifs en découpe* à
 Cuest'art. Recherches graphiques et effets magiques.
 
 Le samedi 15 septembre de 10h à 17h au S'lo coutchant
@@ -29,25 +29,25 @@ Plus d'info: https://www.cuestart.be/stages-et-animations/stages-pour-adultes/
 
 À Sommethonne, en partenariat avec le Centre Culturel de Rossignol et la Commune de Meix-devant-Virton.
 
-20 octobre/ *Bijoux et fleurs*:
+__20 octobre__ *Bijoux et fleurs*:
 Découvertes de la technique du feutre
 Balles, rubans et fleurs se transforment en parures colorés et fleuries.
 
-17 novembre/ *Chaussons*:
+__17 novembre__ *Chaussons*:
 Découvertes du feutrage en volume.
 Réalisations d'une paire de chaussons sur mesure.
 
-23 février/ *Sacs*:
+__23 février__ *Sacs*:
 Réalisations d'un sac en feutre coloré et décoré selon vos envies.
 
-16 mars/ *Chapeaux en folie*:
+__16 mars__ *Chapeaux en folie*:
 Créer le chapeau de vos rêves, aussi fou soit-il!
 
-20 avril/ *Animaux feutrés*:
+__20 avril__ *Animaux feutrés*:
 Création d'animaux feutrés pour marionnettes ou autres.
 Condition: avoir déjà une expérience du feutrage à l'eau. 
 
-18 mai/ *Surfaces en relief et textures*:
+__18 mai__ *Surfaces en relief et textures*:
 Réalisations d'objets décoratifs en relief ou en texture.
 
 Infos pratiques:
