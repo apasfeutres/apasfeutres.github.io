@@ -163,9 +163,9 @@ nav:target {
 .prods {
 	max-width: 492px;
 }
-.adulte ~ .prods {
+/*.adulte ~ .prods {
 	max-width: 656px;
-}
+}*/
 
 .categories {
 	padding:0;
