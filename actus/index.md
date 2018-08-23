@@ -25,33 +25,33 @@ Cuest'art. Recherches graphiques et effets magiques.
 
 Le samedi 15 septembre de 10h à 17h au S'lo coutchant
 
-Plus d'info:[Cuest'Art](https://www.cuestart.be/stages-et-animations/stages-pour-adultes/)
+Plus d'info: [Cuest'Art](https://www.cuestart.be/stages-et-animations/stages-pour-adultes/)
 
 
-__À Sommethonne__, en partenariat avec le Centre Culturel de Rossignol et la Commune de Meix-devant-Virton.
+<u>À Sommethonne</u>, en partenariat avec le Centre Culturel de Rossignol et la Commune de Meix-devant-Virton.
 
-__20 octobre__ *Bijoux et fleurs*:
+<u>20 octobre</u> *Bijoux et fleurs*:
 Découvertes de la technique du feutre
 Balles, rubans et fleurs se transforment en parures colorés et fleuries.
 
-__17 novembre__ *Chaussons*:
+<u>17 novembre</u> *Chaussons*:
 Découvertes du feutrage en volume.
 Réalisations d'une paire de chaussons sur mesure.
 
-__23 février__ *Sacs*:
+<u>23 février</u> *Sacs*:
 Réalisations d'un sac en feutre coloré et décoré selon vos envies.
 
-__16 mars__ *Chapeaux en folie*:
+<u>16 mars</u> *Chapeaux en folie*:
 Créer le chapeau de vos rêves, aussi fou soit-il!
 
-__20 avril__ *Animaux feutrés*:
+<u>20 avril</u> *Animaux feutrés*:
 Création d'animaux feutrés pour marionnettes ou autres.
 Condition: avoir déjà une expérience du feutrage à l'eau. 
 
-__18 mai__ *Surfaces en relief et textures*:
+<u>18 mai</u> *Surfaces en relief et textures*:
 Réalisations d'objets décoratifs en relief ou en texture.
 
-__Infos pratiques:__
+<u>Infos pratiques</u>:
 Matériel à apporter: un essuie, une bouilloire, un tablier imperméable, un seau moyen et pique-nique.
 Lieux: ancienne école de Sommethonne (Place de France)
 Tarif: 40 euros /journée (hors matériaux) 
