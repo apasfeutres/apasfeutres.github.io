@@ -20,7 +20,7 @@ weight: 1
 ### Ateliers 2017-2018 feutre    
 
 
-__Date unique__: Atelier créatif *motifs en découpe* à
+<u>Date unique</u>: Atelier créatif *motifs en découpe* à
 Cuest'art. Recherches graphiques et effets magiques.
 
 Le samedi 15 septembre de 10h à 17h au S'lo coutchant
