@@ -8,7 +8,7 @@ weight: 1
 ### Où trouver À pas feutrés?
 
 - Salon Valériane à Namur, les 31/08, 01/09 et 02/09. (Au stand collectif de la Filière Laine)
-- Marché spécial "Mailles et laines" à Hall recreation, Bruxelles
+- Marché spécial "Mailles et laines" au Re-Creation Hall, Ateliers des Tanneurs, Bruxelles
 - Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois
 - Sur la boutique en ligne du [Comptoir des laines](https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1)
 - Chez Naturwelten à Luxembourg Ville
