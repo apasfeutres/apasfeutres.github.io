@@ -50,6 +50,12 @@ Tarif: 40 euros /journée (hors matériaux)
 
 La matériel n'est pas compris dans le prix. (5 euro/ atelier bijou et 15 euro/ autres ateliers)
 
++ Ateliers d'un après-midi au [Musée du Feutre](http://www.mouzon.fr/presentation-du-musee.html) à Mouzon.
++
+
+Attention! L'atelier Animaux feutrés est annulé. Pour cause d'absence justifiée pour rejoindre les Journées du feutre à Felletin ;-)
+Si vous êtes interessé par cet atelier, n'hésitez pas à me le signaler.
+
 
 
   
