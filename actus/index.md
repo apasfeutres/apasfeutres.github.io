@@ -7,9 +7,8 @@ weight: 1
 
 ### Où trouver À pas feutrés?
 
-- 1 décembre Marché de Noel de la [Boutique des laines](https://laines.eu/pec-events/marche-de-noel/1543622400)  à Redu
-- Les 14, 15, 16 et 26 décembre à la boutique éphèmère des créateurs à Virton
-- Au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois
+- [Boutique des laines](https://laines.eu/pec-events/marche-de-noel/1543622400)  à Redu
+- Régulièrement, au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois
 - Sur la boutique en ligne du [Comptoir des laines](https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1)
 - Chez Naturwelten à Luxembourg Ville
 - Au comptoir de la cigogne à Toernich
@@ -17,7 +16,7 @@ weight: 1
 
 
  
-### Ateliers 2017-2018 feutre    
+### Ateliers 2018-2019 feutre    
 
 
 
