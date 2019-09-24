@@ -16,46 +16,35 @@ weight: 1
 
 
  
-### Ateliers 2018-2019 feutre    
+### Ateliers 2019-2020 feutre    
 
 
 
 <u>À Sommethonne</u>, en partenariat avec le Centre Culturel de Rossignol et la Commune de Meix-devant-Virton.
 
-<u>20 octobre</u> *Bijoux et fleurs*:
-Découvertes de la technique du feutre
-Balles, rubans et fleurs se transforment en parures colorés et fleuries.
-
-<u>17 novembre</u> *Chaussons*:
+<u>26 octobre</u> *Chaussons sans couture*:
 Découvertes du feutrage en volume.
 Réalisations d'une paire de chaussons sur mesure.
 
-<u>23 février</u> *Sacs*:
+<u>16 novembre</u> *Chapeaux en folie*:
+Découvertes du feutrage en volume.
+Créez le chapeau de vos rêves, aussi fou soit-il!
+
+<u>15 février</u> *Sacs colorés*:
 Réalisations d'un sac en feutre coloré et décoré selon vos envies.
 
-<u>16 mars</u> *Chapeaux en folie*:
-Créer le chapeau de vos rêves, aussi fou soit-il!
+<u>14 mars</u> *Chaussons ou chapeau sans couture*:
+Découvertes du feutrage en volume.
+Réalisations d'une paire de chaussons ou d'un chapeau sur mesure.
 
-<u>20 avril</u> *Animaux feutrés*:
-Création d'animaux feutrés pour marionnettes ou autres.
-Condition: avoir déjà une expérience du feutrage à l'eau. 
 
-<u>18 mai</u> *Surfaces en relief et textures*:
-Réalisations d'objets décoratifs en relief ou en texture.
+<u>16 mai</u> *Objets déco en 3D*:
+Abat-jour, bol, nid à chat, une journée consacrée aux objets décoratifs en feutre.
 
 <u>Infos pratiques</u>:
 Matériel à apporter: un essuie, une bouilloire, un tablier imperméable, un seau moyen et pique-nique.
 Lieux: ancienne école de Sommethonne (Place de France)
-Tarif: 40 euros /journée (hors matériaux) 
-
-La matériel n'est pas compris dans le prix. (5 euro/ atelier bijou et 15 euro/ autres ateliers)
-
-+ Ateliers d'un après-midi au [Musée du Feutre](http://www.mouzon.fr/presentation-du-musee.html) à Mouzon.
-+
-
-Attention! L'atelier Animaux feutrés est annulé. Pour cause d'absence justifiée pour rejoindre les Journées du feutre à Felletin ;-)
-Si vous êtes interessé par cet atelier, n'hésitez pas à me le signaler.
-
+Tarif: 55 euros /journée, matériel compris. 
 
 
   
