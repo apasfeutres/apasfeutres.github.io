@@ -5,13 +5,13 @@ title: Actualités
 weight: 1
 ---
 
-### Où trouver À pas feutrés?
+### Prochains évènements:
 
-- [Boutique des laines](https://laines.eu/pec-events/marche-de-noel/1543622400)  à Redu
-- Régulièrement, au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois
-- Sur la boutique en ligne du [Comptoir des laines](https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1)
-- Chez Naturwelten à Luxembourg Ville
-- Au comptoir de la cigogne à Toernich
+*La fête de la laine* à Rossignol, dimanche 29 septembre.
+
+A la *Lux fashion week* à Arlon, samedi et dimanche 5 et 6 octobre.
+
+Au *marché des saveurs* d'Avioth, dimanche 6 octobre.
 
 
 
@@ -46,6 +46,13 @@ Matériel à apporter: un essuie, une bouilloire, un tablier imperméable, un se
 Lieux: ancienne école de Sommethonne (Place de France)
 Tarif: 55 euros /journée, matériel compris. 
 
+### Où trouver À pas feutrés toute l'année?
+
+- [Boutique des laines](https://laines.eu/pec-events/marche-de-noel/1543622400)  à Redu
+- Régulièrement, au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois
+- Sur la boutique en ligne du [Comptoir des laines](https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1)
+- Chez Naturwelten à Luxembourg Ville
+- Au comptoir de la cigogne à Toernich
 
   
 <div class="centered"><img src="actus.jpg" alt="chaussons pointus"></div>
