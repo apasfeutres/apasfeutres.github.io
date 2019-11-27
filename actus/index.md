@@ -7,13 +7,13 @@ weight: 1
 
 ### Prochains évènements:
 
-*La fête de la laine* à Rossignol, dimanche 29 septembre.
+[Boutique des laines](https://laines.eu/pec-events/marche-de-noel/1543622400) à Redu.
 
-A la *Lux fashion week* à Arlon, samedi et dimanche 5 et 6 octobre.
+Au Marché de Noel de l'éciperie Coeur de Village à Bellefontaine, jusqu'à fin décembre. 
 
-Au *marché des saveurs* d'Avioth, dimanche 6 octobre.
+Au *marché des saveurs* d'Avioth, dimanche 1 décembre.
 
-
+Marché de Noel d'Avioth, les 7 et 8 décembre. 
 
  
 ### Ateliers 2019-2020 feutre    
