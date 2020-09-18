@@ -1,4 +1,4 @@
 ---
 layout: produit
-categories: accessoire
+categories: autre
 ---
