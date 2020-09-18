@@ -10,9 +10,8 @@ Les endroits où me retrouver:
 
 [Ateliers créatifs](https://www.ccrt.be/stages) autour du feutre
 
-[Boutique des laines](https://laines.eu/pec-events/marche-de-noel/1543622400)  à Redu
+[Boutique des laines](https://laines.eu/)  à Redu
 
-Boutique en ligne du [Comptoir des laines](https://comptoirdeslaines.be/shop/a-pas-feutres-boutique?flag=1)
 
 Au plaisir de vous y rencontrer!
 
