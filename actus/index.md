@@ -21,15 +21,15 @@ weight: 1
 Découvertes du feutrage en volume.
 Réalisations d'une paire de chaussons sur mesure.
 
-<u>27 mars</u> *Sacs colorés*:
+<u>27 mars 2021</u> *Sacs colorés*:
 Réalisations d'un sac en feutre coloré et décoré selon vos envies.
 
-<u>24 avril</u> *Chapeaux en folie*:
+<u>24 avril 2021</u> *Chapeaux en folie*:
 Découvertes du feutrage en volume.
 Créez le chapeau de vos rêves, aussi fou soit-il!
 
 
-<u>8 mai</u> Thème libre... Nous verrons ensemble ;-) 
+<u>8 mai 2021</u> Thème libre... Nous verrons ensemble ;-) 
 
 
 <u>Infos pratiques</u>:
