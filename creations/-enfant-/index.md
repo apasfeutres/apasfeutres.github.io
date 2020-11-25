@@ -11,4 +11,4 @@ De la taille 16 à 34, les chaussons Babéo sont parfaits pour un bon contact av
 Baleines, étoiles, tortures, des thèmes de la nature mis en valeur par des couleurs extraites.... de la nature!!!
 (Extraits de plantes tinctoriales)
 
- 
+<div class="centered"><img src="enfant-collage.jpg" alt="chaussons enfant"></div> 
