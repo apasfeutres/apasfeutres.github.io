@@ -7,7 +7,7 @@ weight: 1
 
 ### Prochains évènements:
 
-<u>...Ça se passe à mon atelier....</u> (Casemate 20 Place de l'infirmerie Citadelle de Montmédy)
+...Ça se passe à mon atelier.... (Casemate 20 Place de l'infirmerie <u>Citadelle de Montmédy</u>)
 
 <u>Samedi 30 avril</u> Démonstration *Fabrication d'un chapeau en feutre*
 
