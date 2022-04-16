@@ -7,13 +7,13 @@ weight: 1
 
 ### Prochains évènements:
 
-<u>...Ça se passe à mon atelier....<u> (Casemate 20 Place de l'infirmerie Citadelle de Montmédy)
+<u>...Ça se passe à mon atelier....</u> (Casemate 20 Place de l'infirmerie Citadelle de Montmédy)
 
-<u>Samedi 30 avril<u> Démonstration *Fabrication d'un chapeau en feutre*
+<u>Samedi 30 avril</u> Démonstration *Fabrication d'un chapeau en feutre*
 
-<u>Samedi 28 mai<u> Démonstration *Sérigraphie végétale*
+<u>Samedi 28 mai</u> Démonstration *Sérigraphie végétale*
 
-<u>Samedi 25 et dimanche 26 juin<u> Démonstration *Fabrication de chaussures en feutre*
+<u>Samedi 25 et dimanche 26 juin</u> Démonstration *Fabrication de chaussures en feutre*
 
  
 ### Ateliers 2021-2022 feutre    

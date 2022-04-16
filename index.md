@@ -6,9 +6,9 @@ layout: accueil
 
 
 
-Mon atelier de fabrication se trouve, désormais, à la Citadelle de Montmédy, avec un espace d'exposition/boutique. Vous pouvez m'y retrouver les vendredis et samedis de 13h30 à 18h. J'y suis également certains dimanches ensolleillés!
+### Mon atelier de fabrication se trouve, désormais, à la Citadelle de Montmédy, avec un espace d'exposition/boutique. Vous pouvez m'y retrouver les vendredis et samedis de 13h30 à 18h. J'y suis également certains dimanches ensolleillés!
 
-J'y propose des animations de manière régulière, voir [Actualités](https://www.apasfeutres.be/actus/)
+J'y propose des animations, de manière régulière, voir [Actualités](https://www.apasfeutres.be/actus/)
 
 [Ateliers créatifs](https://www.ccrt.be/stages) autour du feutre
 
