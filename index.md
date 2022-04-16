@@ -6,14 +6,16 @@ layout: accueil
 
 
 
-Les endroits où me retrouver:
+Mon atelier de fabrication se trouve, désormais, à la Citadelle de Montmédy, avec un espace d'exposition/boutique. Vous pouvez m'y retrouver les vendredis et samedis de 13h30 à 18h. J'y suis également certains dimanches ensolleillés!
+
+J'y propose des animations de manière régulière, voir [Actualités](https://www.apasfeutres.be/actus/)
 
 [Ateliers créatifs](https://www.ccrt.be/stages) autour du feutre
 
-[Boutique des laines](https://laines.eu/)  à Redu
 
 
-Au plaisir de vous y rencontrer!
+
+Au plaisir de vous y retrouver!
 
 
 
