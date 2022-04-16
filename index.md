@@ -21,7 +21,7 @@ Au plaisir de vous y rencontrer!
 <div class="home">
 
   
-  <div class="centered"><img src="vignette1.jpg">
+  <div class="centered"><img src="accueil.jpg">
 
 
 
