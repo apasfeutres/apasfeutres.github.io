@@ -22,7 +22,7 @@ Partagez à vos ami·es !!
 <div class="home">
 
   
-  <div class="centered"><img src="accueil.jpg">
+  <div class="centered"><img src="accueil.png">
 
 
 
