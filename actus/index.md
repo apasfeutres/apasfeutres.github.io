@@ -13,7 +13,7 @@ weight: 1
 
 <u>Samedi 28 mai</u> Démonstration *Sérigraphie végétale*
 
-<u>Samedi 25 et dimanche 26 juin</u> Démonstration *Fabrication de chaussures en feutre*
+<u>Samedi 25 mars</u> Atelier *Sphères en feutre*
 
  
 ### Ateliers 2021-2022 feutre    
