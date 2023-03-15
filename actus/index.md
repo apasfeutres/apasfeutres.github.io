@@ -9,44 +9,20 @@ weight: 1
 
 ...Ça se passe à mon atelier.... (Casemate 20 Place de l'infirmerie <u>Citadelle de Montmédy</u>)
 
-<u>Samedi 30 avril</u> Démonstration *Fabrication d'un chapeau en feutre*
+<u>Samedi 28 fevrier</u> Atelier CHAPEAUX de 10h à 17h 
+<u>Samedi 18 février</u> Atelier LUMINAIRES de 14h à 17h
+<u>Samedi 25 mars</u> Atelier VASES ET SPHÈRES de 14h à 17h
 
-<u>Samedi 28 mai</u> Démonstration *Sérigraphie végétale*
-
-<u>Samedi 25 mars</u> Atelier *Sphères en feutre*
-
- 
-### Ateliers 2021-2022 feutre    
-
-
-
-<u>À Sommethonne</u>, en partenariat avec le Centre Culturel de Rossignol et la Commune de Meix-devant-Virton. 
-
-<u>19 février 2022</u> *Chaussons sans couture*:
-Découvertes du feutrage en volume.
-Réalisations d'une paire de chaussons sur mesure.
-
-<u>19 mars 2022</u> *Chapeaux en folie*:
-Découvertes du feutrage en volume.
-Créez le chapeau de vos rêves, aussi fou soit-il!
-
-<u>23 avril 2022</u> *Sacs colorés*:
-Réalisations d'un sac en feutre coloré et décoré selon vos envies.
-
-
-<u>21 mai 2021</u> Thème libre... Nous verrons ensemble ;-) 
-
-De 9h30 à 16h30
 
 <u>Infos pratiques</u>:
 Matériel à apporter: un essuie, une bouilloire, un tablier imperméable, un seau moyen et pique-nique.
 Lieux: ancienne école de Sommethonne (Place de France)
-Tarif: 55 euros /journée, matériel compris. 
+Tarif: 55 euros /journée, 35 euros la demi journée, matériel compris. 
 
 ### Où trouver À pas feutrés toute l'année?
 
 - Citadelle de Montmedy, Place de l'infirmerie, Casemate 20'
-- Régulièrement, au Marché Des Saveurs d'Avioth, chaque premier dimanche du mois
+
 
 
   
