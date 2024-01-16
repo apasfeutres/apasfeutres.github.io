@@ -6,7 +6,6 @@ layout: accueil
 
 
 
-### Ateliers printemps 2023 !!!!
 
 
 
